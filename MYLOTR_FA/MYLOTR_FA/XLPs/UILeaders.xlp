@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UILeaders"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="LEADER_FEANOR_NEUTRAL"/>
+			<m_ObjectName text="LEADER_FEANOR_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FEANOR_BACKGROUND"/>
+			<m_ObjectName text="LEADER_FEANOR_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MAEDHROS_NEUTRAL"/>
+			<m_ObjectName text="LEADER_MAEDHROS_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MAEDHROS_BACKGROUND"/>
+			<m_ObjectName text="LEADER_MAEDHROS_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_CELEGORM_NEUTRAL"/>
+			<m_ObjectName text="LEADER_CELEGORM_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_CELEGORM_BACKGROUND"/>
+			<m_ObjectName text="LEADER_CELEGORM_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MAGLOR_NEUTRAL"/>
+			<m_ObjectName text="LEADER_MAGLOR_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MAGLOR_BACKGROUND"/>
+			<m_ObjectName text="LEADER_MAGLOR_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_CARANTHIR_NEUTRAL"/>
+			<m_ObjectName text="LEADER_CARANTHIR_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_CARANTHIR_BACKGROUND"/>
+			<m_ObjectName text="LEADER_CARANTHIR_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_AMROD_NEUTRAL"/>
+			<m_ObjectName text="LEADER_AMROD_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_AMROD_BACKGROUND"/>
+			<m_ObjectName text="LEADER_AMROD_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FINGOLFIN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_FINGOLFIN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FINGOLFIN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_FINGOLFIN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FINGON_NEUTRAL"/>
+			<m_ObjectName text="LEADER_FINGON_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FINGON_BACKGROUND"/>
+			<m_ObjectName text="LEADER_FINGON_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_TURGON_NEUTRAL"/>
+			<m_ObjectName text="LEADER_TURGON_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_TURGON_BACKGROUND"/>
+			<m_ObjectName text="LEADER_TURGON_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FINROD_NEUTRAL"/>
+			<m_ObjectName text="LEADER_FINROD_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FINROD_BACKGROUND"/>
+			<m_ObjectName text="LEADER_FINROD_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ORODRETH_NEUTRAL"/>
+			<m_ObjectName text="LEADER_ORODRETH_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ORODRETH_BACKGROUND"/>
+			<m_ObjectName text="LEADER_ORODRETH_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ANGROD_NEUTRAL"/>
+			<m_ObjectName text="LEADER_ANGROD_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ANGROD_BACKGROUND"/>
+			<m_ObjectName text="LEADER_ANGROD_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MORGOTH_NEUTRAL"/>
+			<m_ObjectName text="LEADER_MORGOTH_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MORGOTH_BACKGROUND"/>
+			<m_ObjectName text="LEADER_MORGOTH_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_THINGOL_NEUTRAL"/>
+			<m_ObjectName text="LEADER_THINGOL_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_THINGOL_BACKGROUND"/>
+			<m_ObjectName text="LEADER_THINGOL_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DIOR_NEUTRAL"/>
+			<m_ObjectName text="LEADER_DIOR_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DIOR_BACKGROUND"/>
+			<m_ObjectName text="LEADER_DIOR_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DENETHOR_NEUTRAL"/>
+			<m_ObjectName text="LEADER_DENETHOR_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DENETHOR_BACKGROUND"/>
+			<m_ObjectName text="LEADER_DENETHOR_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_HURIN_THALION_NEUTRAL"/>
+			<m_ObjectName text="LEADER_HURIN_THALION_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_HURIN_THALION_BACKGROUND"/>
+			<m_ObjectName text="LEADER_HURIN_THALION_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DURIN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_DURIN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DURIN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_DURIN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_AZAGHAL_NEUTRAL"/>
+			<m_ObjectName text="LEADER_AZAGHAL_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_AZAGHAL_BACKGROUND"/>
+			<m_ObjectName text="LEADER_AZAGHAL_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_NAUGLADUR_NEUTRAL"/>
+			<m_ObjectName text="LEADER_NAUGLADUR_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_NAUGLADUR_BACKGROUND"/>
+			<m_ObjectName text="LEADER_NAUGLADUR_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FINARFIN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_FINARFIN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FINARFIN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_FINARFIN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_INGWE_NEUTRAL"/>
+			<m_ObjectName text="LEADER_INGWE_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTR_FA_LOADING_BACKGROUND"/>
+			<m_ObjectName text="LOTR_FA_LOADING_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_OLWE_NEUTRAL"/>
+			<m_ObjectName text="LEADER_OLWE_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_OLWE_BACKGROUND"/>
+			<m_ObjectName text="LEADER_OLWE_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_INGWE_BACKGROUND"/>
+			<m_ObjectName text="LEADER_INGWE_BACKGROUND"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

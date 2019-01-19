@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- HOUSE OF FEANOR | FEANOR	-->
+		<Row Tag="LOC_CIVILIZATION_HOUSE_FEANOR_NAME" Language="en_US">
+			<Text>House of Fëanor</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HOUSE_FEANOR_DESCRIPTION" Language="en_US">
+			<Text>Kingdoms of Fëanor</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HOUSE_FEANOR_ADJECTIVE" Language="en_US">
+			<Text>Ñoldor</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_FEANOR_NAME" Language="en_US">
+			<Text>Fëanor</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SONS_OF_FEANOR_NAME" Language="en_US">
+			<Text>Son’s of Fëanor</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SONS_OF_FEANOR_DESCRIPTION" Language="en_US">
+			<Text>All their units do not suffer combat penalties when damaged. +2 [ICON_Food] Food, +2 [ICON_Production] Production, and +4 [ICON_Gold] Gold from each [ICON_GreatWork_Relic] Relic, [ICON_GreatWork_Artifact] Artifact, and Sculpture [ICON_GreatWork_Sculpture] Great Work of Art in addition to the usual [ICON_Culture] Culture. Palace has slots for 5 Great Works.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SPIRIT_OF_FIRE_NAME" Language="en_US">
+			<Text>Spirit of Fire</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SPIRIT_OF_FIRE_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength when fighting on a continent other that your [ICON_Capital] Capital's. Additional military slot.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_OATH_OF_FEANOR_NAME" Language="en_US">
+			<Text>Oath of Fëanor</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_OATH_OF_FEANOR_DESCRIPTION" Language="en_US">
+			<Text>Likes civilizations who have the same Luxury resources as he does, and will try to collect every Luxury resource available. Dislikes civilizations who have a new Luxury resource he has not yet collected.</Text>
+		</Row>
+		<!-- END OF HOUSE FEANOR | FEANOR -->
+		<!-- HOUSE OF FEANOR | MAEDHROS	-->
+		<Row Tag="LOC_LEADER_MAEDHROS_NAME" Language="en_US">
+			<Text>Maedhros</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_UNION_OF_MAEDHROS_NAME" Language="en_US">
+			<Text>Union of Maedhros</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_UNION_OF_MAEDHROS_DESCRIPTION" Language="en_US">
+			<Text>May declare war on anyone at war with their allies without warmonger penalties. When at war with a common foe, they and their allies share pillage rewards and share combat experience gains if within 5 tiles. Additional military slot.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_UNION_OF_MAEDHROS_NAME" Language="en_US">
+			<Text>Union of Maedhros</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_UNION_OF_MAEDHROS_DESCRIPTION" Language="en_US">
+			<Text>Favors civilizations with the same type of government, dislikes civilizations that have different govenments, and really dislikes civilizations with different govenments of the same era as its own.</Text>
+		</Row>
+		<!-- END OF HOUSE FEANOR | MAEDHROS -->
+		<!-- HOUSE OF FEANOR | CELEGORM	-->
+		<Row Tag="LOC_LEADER_CELEGORM_NAME" Language="en_US">
+			<Text>Celegorm</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_TYELKORMO_NAME" Language="en_US">
+			<Text>Tyelkormo</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_TYELKORMO_DESCRIPTION" Language="en_US">
+			<Text>All units receive +5 [ICON_Strength] Combat Strength when attacking wounded units. All Camps give +2 Food and +1 Gold.</Text>
+		</Row>
+		<!-- END OF HOUSE FEANOR | CELEGORM -->
+		<!-- HOUSE OF FEANOR | MAGLOR	-->
+		<Row Tag="LOC_LEADER_MAGLOR_NAME" Language="en_US">
+			<Text>Maglor</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MACALAURE_NAME" Language="en_US">
+			<Text>Macalaurë</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MACALAURE_DESCRIPTION" Language="en_US">
+			<Text>Combat victories provide [ICON_Culture] Culture equal to 50% of the [ICON_Strength] Combat Strength of the defeated unit. Double the Points for Great Artists, Musicians and Writers.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_KANAFINWE_NAME" Language="en_US">
+			<Text>Kanafinwë</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_KANAFINWE_DESCRIPTION" Language="en_US">
+			<Text>Tries to build up [ICON_Culture] Culture, and likes civilizations that also focus on [ICON_Culture] Culture.</Text>
+		</Row>
+		<!-- END OF HOUSE FEANOR | MAGLOR -->
+		<!-- HOUSE OF FEANOR | CARANTHIR	-->
+		<Row Tag="LOC_LEADER_CARANTHIR_NAME" Language="en_US">
+			<Text>Caranthir</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_THE_DARK_FEANOR_NAME" Language="en_US">
+			<Text>The Dark Fëanor</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_THE_DARK_FEANOR_DESCRIPTION" Language="en_US">
+			<Text>All cities you found or conquer start with a Trading Post. Your [ICON_TradeRoute] Trade Routes earn +1 [ICON_Gold] Gold for passing through Trading Posts in your own cities. Other civilizations' [ICON_TradeRoute] Trade Routes to Caranthir provide +2 [ICON_Food] Food for them and +2 [ICON_Gold] Gold for Caranthir.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_MORIFINWE_NAME" Language="en_US">
+			<Text>Morifinwë</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_MORIFINWE_DESCRIPTION" Language="en_US">
+			<Text>Tries to have the highest possible [ICON_Gold] Gold per turn income. Respects other high income civilizations.</Text>
+		</Row>
+		<!-- END OF HOUSE FEANOR | CARANTHIR -->
+		<!-- HOUSE OF FEANOR | AMROD	-->
+		<Row Tag="LOC_LEADER_AMROD_NAME" Language="en_US">
+			<Text>Amrod</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AMBARUSSA_NAME" Language="en_US">
+			<Text>Ambarussa</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AMBARUSSA_DESCRIPTION" Language="en_US">
+			<Text>Units receive a +5 [ICON_Strength] Combat Strength on their home continent.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_TELUFINWE_NAME" Language="en_US">
+			<Text>Telufinwë</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_TELUFINWE_DESCRIPTION" Language="en_US">
+			<Text>Favors civilizations with the same type of government, dislikes civilizations that have different govenments, and really dislikes civilizations with different govenments of the same era as its own.</Text>
+		</Row>
+		<!-- END OF HOUSE FEANOR | AMROD -->
+		<!-- HOUSE OF FINGOLFIN | FINGOLFIN	-->
+		<Row Tag="LOC_CIVILIZATION_HOUSE_FINGOLFIN_NAME" Language="en_US">
+			<Text>House of Fingolfin</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HOUSE_FINGOLFIN_DESCRIPTION" Language="en_US">
+			<Text>Kingdoms of Fingolfin</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HOUSE_FINGOLFIN_ADJECTIVE" Language="en_US">
+			<Text>Ñoldor</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_FINGOLFIN_NAME" Language="en_US">
+			<Text>Fingolfin</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_ARAKANO_NAME" Language="en_US">
+			<Text>Arakanó</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_ARAKANO_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength when fighting on a continent other that your [ICON_Capital] Capital's. Additional wildcard slot.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_THOSE_WITH_KNOWLEDGE_NAME" Language="en_US">
+			<Text>Those With Knowledge</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_THOSE_WITH_KNOWLEDGE_DESCRIPTION" Language="en_US">
+			<Text>All their units do not suffer combat penalties when damaged. [ICON_TechBoosted] Eurekas and [ICON_CivicBoosted] Inspirations provide 60% of civics and technologies instead of 50%.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_NOLOFINWE_NAME" Language="en_US">
+			<Text>Nolofinwë</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_NOLOFINWE_DESCRIPTION" Language="en_US">
+			<Text>Likes civilizations who are their declared friend. Hates civilizations who backstab and declare surprise wars.</Text>
+		</Row>
+		<!-- END OF HOUSE FINGOLFIN | FINGOLFIN -->
+		<!-- HOUSE OF FINGOLFIN | FINGON	-->
+		<Row Tag="LOC_LEADER_FINGON_NAME" Language="en_US">
+			<Text>Fingon</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_FINDEKANO_NAME" Language="en_US">
+			<Text>Findekanó</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_FINDEKANO_DESCRIPTION" Language="en_US">
+			<Text>Units receive a +5 [ICON_Strength] Combat Strength on their home continent. Additional military slot.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_NOLDOR_ELVES_NAME" Language="en_US">
+			<Text>Ñoldor Elves</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_NOLDOR_ELVES_DESCRIPTION" Language="en_US">
+			<Text>Tries to build up [ICON_Science] Science, and likes civilizations that also focus on [ICON_Science] Science.</Text>
+		</Row>
+		<!-- END OF HOUSE FINGOLFIN | FINGON -->
+		<!-- HOUSE OF FINGOLFIN | TURGON	-->
+		<Row Tag="LOC_LEADER_TURGON_NAME" Language="en_US">
+			<Text>Turgon</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_TURAKANO_NAME" Language="en_US">
+			<Text>Turakáno</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_TURAKANO_DESCRIPTION" Language="en_US">
+			<Text>All districts receive an additional standard adjacency bonus for being adjacent to another district. Double the Points for Great Artists, Musicians and Writers.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_HIDDEN_PEOPLE_NAME" Language="en_US">
+			<Text>Hidden People</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_HIDDEN_PEOPLE_DESCRIPTION" Language="en_US">
+			<Text>Likes civilizations who pose no threat. Dislikes civilizations with strong militaries or ones with nearby cities.</Text>
+		</Row>
+		<!-- END OF HOUSE FINGOLFIN | TURGON -->
+		<!-- HOUSE OF FINARFIN | FINROD	-->
+		<Row Tag="LOC_CIVILIZATION_HOUSE_FINARFIN_NAME" Language="en_US">
+			<Text>House of Finarfin</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HOUSE_FINARFIN_DESCRIPTION" Language="en_US">
+			<Text>Kingdoms of Finarfin</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HOUSE_FINARFIN_ADJECTIVE" Language="en_US">
+			<Text>Ñoldor</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_FINROD_NAME" Language="en_US">
+			<Text>Finrod</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_GOLDEN_NOLDOR_NAME" Language="en_US">
+			<Text>Golden Ñoldor</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_GOLDEN_NOLDOR_DESCRIPTION" Language="en_US">
+			<Text>Your [ICON_TradeRoute] Trade Routes to other civilizations provide +4 [ICON_Gold] Gold for the House Finarfin. Other civilizations' [ICON_TradeRoute] Trade Routes to the House Finarfin provide +2 [ICON_Food] Food for them and +2 [ICON_Gold] Gold for the House Finarfin.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_FINDARATO_NAME" Language="en_US">
+			<Text>Findaráto</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_FINDARATO_DESCRIPTION" Language="en_US">
+			<Text>+4 Influence points per turn toward earning city-state [ICON_Envoy] Envoys. +4 [ICON_Gold] Gold from each city-state you are Suzerain of.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_NOM_OR_NOMIN_NAME" Language="en_US">
+			<Text>Nóm or Nómin</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_NOM_OR_NOMIN_DESCRIPTION" Language="en_US">
+			<Text>Emphasizes protectorate wars. Admires civilizations that start protectorate wars. Dislikes civilizations that attack city states.</Text>
+		</Row>
+		<!-- END OF HOUSE FINARFIN | FINROD -->
+		<!-- HOUSE OF FINARFIN | ORODRETH	-->
+		<Row Tag="LOC_LEADER_ORODRETH_NAME" Language="en_US">
+			<Text>Orodreth</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_ARTARESTO_NAME" Language="en_US">
+			<Text>Artaresto</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_ARTARESTO_DESCRIPTION" Language="en_US">
+			<Text>Industrials Zones gains 1 [ICON_Production] Production and the Commercial Hubs gains 1 [ICON_Gold] Gold if they are next to a Mountain.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_WARDEN_MINAS_TIRITH_NAME" Language="en_US">
+			<Text>Warden of Minas Tirith</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_WARDEN_MINAS_TIRITH_DESCRIPTION" Language="en_US">
+			<Text>Hates barbarians. Likes civilizations that clear out barbarian outposts. Does not like civilizations that ignores barbarian outposts.</Text>
+		</Row>
+		<!-- END OF HOUSE FINARFIN | ORODRETH -->
+		<!-- HOUSE OF FINARFIN | ANGROD	-->
+		<Row Tag="LOC_LEADER_ANGROD_NAME" Language="en_US">
+			<Text>Angrod</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_ANGARATO_NAME" Language="en_US">
+			<Text>Angaráto</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_ANGARATO_DESCRIPTION" Language="en_US">
+			<Text>All units gains additional +5 [ICON_Strength] when fighting in Forest or Jungle. Combat victories provide [ICON_Faith] Faith equal to 50% of the [ICON_Strength] Combat Strength of the defeated unit.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_WARDEM_NORTHERN_SLOPES_NAME" Language="en_US">
+			<Text>Warden of the Northern Slopes</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_WARDEM_NORTHERN_SLOPES_DESCRIPTION" Language="en_US">
+			<Text>Tries to find all natural wonders.  Likes civilizations that keep Woods and Rainforest unchopped, and those that establish National Parks.</Text>
+		</Row>
+		<!-- END OF HOUSE FINARFIN | ANGROD -->
+		<!-- MORGOTH | MORGOTH	-->
+		<Row Tag="LOC_CIVILIZATION_MORGOTH_NAME" Language="en_US">
+			<Text>Morgoth</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MORGOTH_DESCRIPTION" Language="en_US">
+			<Text>Angband</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MORGOTH_ADJECTIVE" Language="en_US">
+			<Text>Morgoth</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_MORGOTH_NAME" Language="en_US">
+			<Text>Morgoth</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_DARK_ENEMY_NAME" Language="en_US">
+			<Text>The Dark Enemy</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_DARK_ENEMY_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Faith] Faith, +1 [ICON_Production] Production in Tundra.  Capture unit enemies as Builders. Accumulate 60% less war weariness than usual.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_FIRST_DARK_LORD_NAME" Language="en_US">
+			<Text>The First Dark Lord</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_FIRST_DARK_LORD_DESCRIPTION" Language="en_US">
+			<Text>Unit maintenance cost reduced by 8 Gold per turn, per unit. Tundra and Snow lands provide the same +1 [ICON_Food] Food.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_KING_OF_THE_WORLD_NAME" Language="en_US">
+			<Text>King of the World</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_KING_OF_THE_WORLD_DESCRIPTION" Language="en_US">
+			<Text>Likes to see civilizations at war, and believes in constant struggle. </Text>
+		</Row>
+		<!-- END OF MORGOTH | MORGOTH -->
+		<!-- DORIATH | THINGOL	-->
+		<Row Tag="LOC_CIVILIZATION_DORIATH_NAME" Language="en_US">
+			<Text>Doriath</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_DORIATH_DESCRIPTION" Language="en_US">
+			<Text>Kingdom of Doriath</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_DORIATH_ADJECTIVE" Language="en_US">
+			<Text>Doriath</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_THINGOL_NAME" Language="en_US">
+			<Text>Thingol</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_REALM_OF_THE_FOREST_NAME" Language="en_US">
+			<Text>Realm of the Forest</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_REALM_OF_THE_FOREST_DESCRIPTION" Language="en_US">
+			<Text>All units gains additional +5 [ICON_Strength] when fighting in Forest or Jungle. +1 Faith[ICON_Faith] in the Holy Sites next to Forests.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_GIRDLE_OF_MELIAN_NAME" Language="en_US">
+			<Text>Girdle of Melian</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_GIRDLE_OF_MELIAN_DESCRIPTION" Language="en_US">
+			<Text>+6 City [ICON_Strength] Defense Strength. Doubles [ICON_Faith] Faith yield from Holy Site district buildings.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_HIGH_KING_SINDAR_NAME" Language="en_US">
+			<Text>High King Sindar</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_HIGH_KING_SINDAR_DESCRIPTION" Language="en_US">
+			<Text>Likes peaceful civilizations that have a city on his home continent. Hates civilizations starting wars against a city-state or civilization based on his continent.</Text>
+		</Row>
+		<!-- END OF DORIATH | THINGOL -->
+		<!-- DORIATH | DIOR	-->
+		<Row Tag="LOC_LEADER_DIOR_NAME" Language="en_US">
+			<Text>Dior</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_ARANEL_NAME" Language="en_US">
+			<Text>Aranel</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_ARANEL_DESCRIPTION" Language="en_US">
+			<Text>Luxury resources in his territory provide an [ICON_Amenities] Amenity to 2 extra cities. Other civilizations' [ICON_TradeRoute] Trade Routes to Dior provide +2 [ICON_Food] Food for them and +2 [ICON_Gold] Gold for Dior.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_NANDOR_CULTURE_NAME" Language="en_US">
+			<Text>Nandor Culture</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_NANDOR_CULTURE_DESCRIPTION" Language="en_US">
+			<Text>Tries to find all natural wonders.  Likes civilizations that keep Woods and Rainforest unchopped, and those that establish National Parks.</Text>
+		</Row>
+		<!-- END OF DORIATH | DIOR -->
+		<!-- OSSIRIAND | DENETHOR	-->
+		<Row Tag="LOC_CIVILIZATION_OSSIRIAND_NAME" Language="en_US">
+			<Text>Ossiriand</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_OSSIRIAND_DESCRIPTION" Language="en_US">
+			<Text>Kingdom of Ossiriand</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_OSSIRIAND_ADJECTIVE" Language="en_US">
+			<Text>Laiquendi</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_DENETHOR_NAME" Language="en_US">
+			<Text>Denethor</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_GREEN_ELVES_RIVER_NAME" Language="en_US">
+			<Text>Green Elves from Rivers</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_GREEN_ELVES_RIVER_DESCRIPTION" Language="en_US">
+			<Text>+15% [ICON_Production] Production towards districts and wonders if placed next to a River. All units gains additional +5 [ICON_Strength] when fighting in Forest or Jungle.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LAND_SEVEN_RIVERS_NAME" Language="en_US">
+			<Text>Land of Seven Rivers</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LAND_SEVEN_RIVERS_DESCRIPTION" Language="en_US">
+			<Text>All tiles next to a river gain 1 [ICON_Food] Food. +1 Faith[ICON_Faith] in the Holy Sites next to Forests.</Text>
+		</Row>
+		<!-- END OF OSSIRIAND | DENETHOR -->
+		<!-- EDAIN | HURIN	-->
+		<Row Tag="LOC_CIVILIZATION_EDAIN_NAME" Language="en_US">
+			<Text>Edain</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_EDAIN_DESCRIPTION" Language="en_US">
+			<Text>Kingdoms of Edain</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_EDAIN_ADJECTIVE" Language="en_US">
+			<Text>Edain</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_HURIN_THALION_NAME" Language="en_US">
+			<Text>Húrin Thalion</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_FATHERS_OF_MEN_NAME" Language="en_US">
+			<Text>Father's of Men</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_FATHERS_OF_MEN_DESCRIPTION" Language="en_US">
+			<Text>One extra Wildcard policy slot in any government.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_HOUSE_OF_HADOR_NAME" Language="en_US">
+			<Text>House of Hador</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_HOUSE_OF_HADOR_DESCRIPTION" Language="en_US">
+			<Text>May declare war on anyone at war with their allies without warmonger penalties. When at war with a common foe, they and their allies share pillage rewards and share combat experience gains if within 5 tiles.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_DRAGON_DORLOMIN_NAME" Language="en_US">
+			<Text>Dragon of Dor-lómin</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_DRAGON_DORLOMIN_DESCRIPTION" Language="en_US">
+			<Text>Friendly to those civilizations that are ahead of him in [ICON_Science] Science and [ICON_Culture] Culture.  Dislikes backwards civilizations that are lacking in [ICON_Science] Science and [ICON_Culture] Culture.</Text>
+		</Row>
+		<!-- END OF EDAIN | HURIN -->
+		<!-- DWARVES | DURIN	-->
+		<Row Tag="LOC_LEADER_DURIN_NAME" Language="en_US">
+			<Text>Durin I</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_DURINS_FOLK_NAME" Language="en_US">
+			<Text>Durin's Folk</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_DURINS_FOLK_DESCRIPTION" Language="en_US">
+			<Text>+15% Production toward Ancient and Classical wonders. When building Ancient and Classical wonders you may spend Builder charges to complete 15% of the original wonder cost. Builders receive an additional charge.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_FATHERS_OFTHE_DWARVES_CULTURE_NAME" Language="en_US">
+			<Text>Fathers of the Dwarves</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_FATHERS_OFTHE_DWARVES_DESCRIPTION" Language="en_US">
+			<Text>Likes civilizations not competing for wonders, and builds wonders whenever possible. Dislikes losing a wonder to another civilization.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_DWARVES_ALLIED_NAME" Language="en_US">
+			<Text>Dwarves Allied</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_DWARVES_ALLIED_DESCRIPTION" Language="en_US">
+			<Text>Likes civilizations who are willing to form a long-term alliance. Dislikes anyone denouncing or attacking his friends and allies.</Text>
+		</Row>
+		<!-- END OF DWARVES | DURIN -->
+		<!-- DWARVES | AZAGHAL	-->
+		<Row Tag="LOC_LEADER_AZAGHAL_NAME" Language="en_US">
+			<Text>Azaghâl</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_BROADBEAMS_NAME" Language="en_US">
+			<Text>Broadbeams</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_BROADBEAMS_DESCRIPTION" Language="en_US">
+			<Text>Your [ICON_TradeRoute] Trade Routes to other civilizations provide +4 [ICON_Gold] Gold for Azaghâl. Other civilizations' [ICON_TradeRoute] Trade Routes to the House Finarfin provide +2 [ICON_Gold] Gold for Azaghâl. All cities you found or conquer start with a Trading Post.</Text>
+		</Row>
+		<!-- END OF DWARVES | AZAGHAL -->
+		<!-- DWARVES | NAUGLADUR	-->
+		<Row Tag="LOC_LEADER_NAUGLADUR_NAME" Language="en_US">
+			<Text>Naugladur</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_WICKED_DWARVES_NAME" Language="en_US">
+			<Text>Wicked Dwarves</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_WICKED_DWARVES_DESCRIPTION" Language="en_US">
+			<Text>Combat victories provide [ICON_Gold] Gold equal to 100% of the [ICON_Strength] Combat Strength of the defeated unit. Accumulate 60% less war weariness than usual.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_TREACHEROUS_DWARVES_NAME" Language="en_US">
+			<Text>Treacherous Dwarves</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_TREACHEROUS_DWARVES_DESCRIPTION" Language="en_US">
+			<Text>Likes civilizations who are her declared friend. Likes civilizations who backstab and declare surprise wars.</Text>
+		</Row>
+		<!-- END OF DWARVES | NAUGLADUR -->
+		<!-- AMAN | FINARFIN	-->
+		<Row Tag="LOC_CIVILIZATION_AMAN_NAME" Language="en_US">
+			<Text>Aman</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AMAN_DESCRIPTION" Language="en_US">
+			<Text>Realm of Aman</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AMAN_ADJECTIVE" Language="en_US">
+			<Text>Aman</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_FINARFIN_NAME" Language="en_US">
+			<Text>Finarfin</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_BLESSED_REALM_NAME" Language="en_US">
+			<Text>Blessed Realm</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_BLESSED_REALM_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength in all Continents. Doubles [ICON_Faith] Faith yield from Holy Site district buildings. Units gain the ability to enter Ocean tiles after researching Shipbuilding.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_ARAFINWE_NAME" Language="en_US">
+			<Text>Arafinwë</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_ARAFINWE_DESCRIPTION" Language="en_US">
+			<Text>Builds Encampment, Holy Site and Theater Square districts in half the time.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_INGOLDO_NAME" Language="en_US">
+			<Text>Ingoldo</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_INGOLDO_DESCRIPTION" Language="en_US">
+			<Text>Never declares wars for which he can be branded a warmonger, and will try to befriend those who maintain the peace. Hates warmongers.</Text>
+		</Row>
+		<!-- END OF AMAN | FINARFIN -->
+		<!-- AMAN | INGWE	-->
+		<Row Tag="LOC_LEADER_INGWE_NAME" Language="en_US">
+			<Text>Ingwë</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_VANYAR_ELVES_NAME" Language="en_US">
+			<Text>Vanyar Elves</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_VANYAR_ELVES_DESCRIPTION" Language="en_US">
+			<Text>Opposing civilizations receive double the war weariness for fighting against Ingwë. Combat units have a bonus of +4 [ICON_Strength] Combat Strength against players following other Religions.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_FAITHFUL_ELVES_NAME" Language="en_US">
+			<Text>Faithful Elves</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_FAITHFUL_ELVES_DESCRIPTION" Language="en_US">
+			<Text>Tries to build up [ICON_Faith] Faith, and likes civilizations that also focus on [ICON_Faith] Faith.</Text>
+		</Row>
+		<!-- END OF AMAN | INGWE -->
+		<!-- AMAN | OLWE	-->
+		<Row Tag="LOC_LEADER_OLWE_NAME" Language="en_US">
+			<Text>Olwë</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_FALMARI_ELVES_NAME" Language="en_US">
+			<Text>Falmari Elves</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_FALMARI_ELVES_DESCRIPTION" Language="en_US">
+			<Text>100% Production toward Ancient, Classical, Renaissance and Industrial era naval units. +100% Harbor district adjacency bonuses.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_PEACEFUL_WATERS_NAME" Language="en_US">
+			<Text>Peaceful Waters</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_PEACEFUL_WATERS_DESCRIPTION" Language="en_US">
+			<Text>Likes peaceful civilizations that have a city on his home continent. Hates civilizations starting wars against a city-state or civilization based on his continent.</Text>
+		</Row>
+		<!-- END OF AMAN | OLWE -->
+	</LocalizedText>
+</GameData>

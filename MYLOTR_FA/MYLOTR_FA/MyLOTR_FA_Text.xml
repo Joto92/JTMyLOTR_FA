@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Useful to obtain elf names of places: merp.wikia.com/wiki/Arda_Role_Playing_Wiki-->
+		<!-- HOUSE OF FEANOR | FEANOR	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_FEANOR" Language="en_US">
+			<Text>Fëanor was born in Valinor, the only child of Finwë, High King of the Ñoldor, and Finwë's first wife Míriel Therindë. He was renowned as a craftsman, gem-smith, and warrior, the maker of the Silmarils. Learning of his father's death at the hands of Morgoth, Fëanor went back to Tirion, breaking the exile set by the Valar. At Tirion, Fëanor gave an impassioned speech in which he convinced the vast majority of the Ñoldor to follow him to Middle-earth to wrest the Silmarils back from Morgoth and avenge Finwë. At the end of his speech, furious and ever prideful, Fëanor swore the dreadful oath to Eru, calling Manwë and Varda in witness. This oath saw him pledge, on pain of calling upon himself the Everlasting Darkness, to pursue with violence any who would keep or hold a Silmaril from him, no who it was, and no matter what the reason or circumstance.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HIMRING" Language="en_US">
+			<Text>Himring</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RERIR" Language="en_US">
+			<Text>Rerir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MAGLORS_GAP" Language="en_US">
+			<Text>Maglor's Gap</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HIMLAND" Language="en_US">
+			<Text>Himlad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ESTOLAD" Language="en_US">
+			<Text>Estolad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MARCH_MAEDHROS" Language="en_US">
+			<Text>March of Maedhros</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALGON" Language="en_US">
+			<Text>Aglon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LOTHLANN" Language="en_US">
+			<Text>Lothlann</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THARGELION" Language="en_US">
+			<Text>Thargelion</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMON_EREB" Language="en_US">
+			<Text>Amon Ereb</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SOUTH_MITHRUM" Language="en_US">
+			<Text>South-Mithrim</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ARD_GALEN" Language="en_US">
+			<Text>Ard-galen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AROSSIACH" Language="en_US">
+			<Text>Arossiach</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATHRAD" Language="en_US">
+			<Text>Sarn Athrad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANDRAM" Language="en_US">
+			<Text>Andram</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RAMBDAL" Language="en_US">
+			<Text>Rambdal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HELEVORN" Language="en_US">
+			<Text>Helevorn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DOR_DINEN" Language="en_US">
+			<Text>Dor Dínen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CELON" Language="en_US">
+			<Text>Celon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TASARINAN" Language="en_US">
+			<Text>Tasarinan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HIN_IN_GELYDH" Language="en_US">
+			<Text>Hin-in-Gelydh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OST_AMLACH" Language="en_US">
+			<Text>Ost-Amlach</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MIROLOS" Language="en_US">
+			<Text>Mirolos</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BARAD_ANNUN" Language="en_US">
+			<Text>Barad Annûn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BARAD_CARANTHIR" Language="en_US">
+			<Text>Barad Caranthir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ECHAD_FEANOR" Language="en_US">
+			<Text>Echad Feänor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GARTH_IN_GWANUN" Language="en_US">
+			<Text>Garth-in-Gwanûn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TIRITH_HUATH" Language="en_US">
+			<Text>Tirith Hûath</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TIRITH_MAGLOR" Language="en_US">
+			<Text>Tirith Maglor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MINDON_BRON" Language="en_US">
+			<Text>Mindon Bron</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TIR_BRONADUI" Language="en_US">
+			<Text>Tir Bronadui</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FEANORIAUN" Language="en_US">
+			<Text>Feanoriaun</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DOR_CARANTHIR" Language="en_US">
+			<Text>Dor Caranthir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TALATH_RHUNEN" Language="en_US">
+			<Text>Talath Rhúnen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TIRITH_AGLON" Language="en_US">
+			<Text>Tirith Aglon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DOR_MAEDHROS" Language="en_US">
+			<Text>Dor Maedhros</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OST_MAEDHROS" Language="en_US">
+			<Text>Ost-Maedhros</Text>
+		</Row>
+		<!-- END OF HOUSE FEANOR | FEANOR -->
+		<!-- HOUSE OF FEANOR | MAEDHROS	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_MAEDHROS" Language="en_US">
+			<Text>Maedhros was one of the princes of the Ñoldor, the eldest of the seven Sons of Fëanor and head of the House of Fëanor following the death of his father in Middle-earth. He was extraordinarily renowned for his skill both as a warrior and as a diplomat. For hundreds of years, he led his House against the forces of Morgoth but the Oath that he and his six brothers had sworn to recover the Silmarils constrained him and ultimately led to his death. </Text>
+		</Row>
+		<!-- END OF HOUSE FEANOR | MAEDHROS -->
+		<!-- HOUSE OF FEANOR | CELEGORM	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_CELEGORM" Language="en_US">
+			<Text>Celegorm, was the third son of Fëanor and Nerdanel, most closely associated with another brother, Curufin. Celegorm was a great huntsman, and a friend of the Vala Oromë. From Oromë he learned great skill of birds and beasts, and could understand a number of their languages. He had brought with him from Valinor the great hound Huan, a gift from Oromë.</Text>
+		</Row>
+		<!-- END OF HOUSE FEANOR | CELEGORM -->
+		<!-- HOUSE OF FEANOR | MAGLOR	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_MAGLOR" Language="en_US">
+			<Text>Maglor was the second son of Fëanor and Nerdanel. He was the greatest poet and minstrel of the Ñoldor and was said to have inherited more of his mother's gentler temperament. As with the other Sons of Fëanor, Maglor was bound by an oath to recover his father's Silmarils, which had been stolen by the Dark Lord Morgoth.</Text>
+		</Row>
+		<!-- END OF HOUSE FEANOR | MAGLOR -->
+		<!-- HOUSE OF FEANOR | CARANTHIR	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_CARANTHIR" Language="en_US">
+			<Text>Caranthir was the fourth son of Fëanor and the harshest and the quickest to anger of his seven brothers. Caranthir was bound by an oath to recover his father's Silmarils, which had been stolen by the Dark Lord Morgoth in Aman. Because his realm bordered the great Dwarfish Kingdoms of Nogrod and Belegost in the Blue Mountains (Ered Luin), he became very wealthy probably controlling much of the trade coming through the Dwarf-Road. </Text>
+		</Row>
+		<!-- END OF HOUSE FEANOR | CARANTHIR -->
+		<!-- HOUSE OF FEANOR | AMROD	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_AMROD" Language="en_US">
+			<Text>Amrod was the youngest son of Fëanor, along with his twin brother Amras. He  held the lands of Estolad with his brother.</Text>
+		</Row>
+		<!-- END OF HOUSE FEANOR | AMROD -->
+		<!-- HOUSE OF FINGOLFIN | FINGOLFIN	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_FINGOLFIN" Language="en_US">
+			<Text>Fingolfin was the second High King of the Ñoldor in Beleriand. He was the eldest son of Finwë and Indis, younger brother of Findis, older brother of Irimë and Finarfin, and the younger half-brother of Fëanor. He founded the House of Fingolfin, which ruled the Ñoldor in Middle-earth.  His wife was Anairë and his children were Fingon, Turgon, Aredhel, and Argon. Fingolfin was said to be the strongest, most steadfast, and most valiant of Finwë's sons.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BARAD_EITHEL" Language="en_US">
+			<Text>Barad Eithel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HITHLUM" Language="en_US">
+			<Text>Hithlum</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DOR_LOMIN" Language="en_US">
+			<Text>Dor-lómin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANNON_IN_GELYDH" Language="en_US">
+			<Text>Annon-in-Gelydh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CIRITH_NINNIACH" Language="en_US">
+			<Text>Cirith Ninniach</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MITHRIM" Language="en_US">
+			<Text>Mithrim</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VINYAMAR" Language="en_US">
+			<Text>Vinyamar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NEVRAST" Language="en_US">
+			<Text>Nevrast</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LINAEWEN" Language="en_US">
+			<Text>Linaewen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GONDOLIN" Language="en_US">
+			<Text>Gondolin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CIRITH_THORONATH" Language="en_US">
+			<Text>Cirith Thoronath</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANDROTH" Language="en_US">
+			<Text>Androth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ERED_LOMIN" Language="en_US">
+			<Text>Ered Lómin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ERED_WETHRIN" Language="en_US">
+			<Text>Ered Wethrin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ERED_MITHRIM" Language="en_US">
+			<Text>Ered Mithrim</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ECHORIATH" Language="en_US">
+			<Text>Echoriath</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CRISSAEGRIM" Language="en_US">
+			<Text>Crissaegrim</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LAMMOTH" Language="en_US">
+			<Text>Lammoth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LOSGAR" Language="en_US">
+			<Text>Losgar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FALASQUIL" Language="en_US">
+			<Text>Falasquil</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HISILOME" Language="en_US">
+			<Text>Hísilómë</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ORCHAMM_FINGOLFIN" Language="en_US">
+			<Text>Orchamm Fingolfin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CRISTHORN" Language="en_US">
+			<Text>Cristhorn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EITHEL_SIRION" Language="en_US">
+			<Text>Eithel Sirion</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TARAS_NESS" Language="en_US">
+			<Text>Taras-ness</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ECHORIAD" Language="en_US">
+			<Text>Echoriad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OST_IN_ARADAN" Language="en_US">
+			<Text>Ost-in-Aradan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FANGROS" Language="en_US">
+			<Text>Fangros</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OST_MAGOR" Language="en_US">
+			<Text>Ost Magor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMON_GWARETH" Language="en_US">
+			<Text>Amon Gwareth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TUMLADEN" Language="en_US">
+			<Text>Tumladen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ORFALCH_ECHOR" Language="en_US">
+			<Text>Orfalch Echor</Text>
+		</Row>
+		<!-- END OF HOUSE FINGOLFIN | FINGOLFIN -->
+		<!-- HOUSE OF FINGOLFIN | FINGON	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_FINGON" Language="en_US">
+			<Text>Finrod was the eldest son of Fingolfin.Fingon marched to Thangorodrim and with the help of Thorondor, Lord of the Eagles, found Maedhros. Maedhros begged Fingon to kill him, but Fingon instead severed Maedhros's hand by the wrist, and brought him back to the Noldorin camp. Maedhros renounced his claim to the High Kingship of the Ñoldor, instead ceding it to House of Fingolfin.</Text>
+		</Row>
+		<!-- END OF HOUSE FINGOLFIN | FINGON -->
+		<!-- HOUSE OF FINGOLFIN | TURGON	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_TURGON" Language="en_US">
+			<Text>Turgon was the second son of Fingolfin. Turgon was the King of Gondolin and the High King of the Ñoldor. For hundreds of years of the First Age, Turgon remained successfully hidden from the eyes and ears of Morgoth until a betrayal from within caused his downfall. Turgon was instructed by Ulmo to prepare a secret kingdom and was shown the hidden valley of Tumladen in the Encircling Mountains. After 52 years of secret labor, Turgon led his people into Gondolin, where he ruled for over 500 years, largely ignoring the events of the Wars of Beleriand.</Text>
+		</Row>
+		<!-- END OF HOUSE FINGOLFIN | TURGON -->
+		<!-- HOUSE OF FINARFIN | FINROD	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_FINROD" Language="en_US">
+			<Text>Finrod was the eldest son of Finarfin and Eärwen, and the brother of Galadriel, Angrod and Aegnor. Finrod was one of the noblest elves of the House of Finarfin and a friend of Men. His nobility and death saving Beren and his opposition to the Oath of Fëanor allowed for his return to life in Valinor, making him the first Elf to be reincarnated in Undying Lands before the end of First Age. </Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NARGOTHROND" Language="en_US">
+			<Text>Nargothrond</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TOL_SIRION" Language="en_US">
+			<Text>Tol Sirion</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DORTHONION" Language="en_US">
+			<Text>Dorthonion</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BARAD_NIMRAS" Language="en_US">
+			<Text>Barad Nimras</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TAUR_EN_FAROTH" Language="en_US">
+			<Text>Taur-en-Faroth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TIMHALAD" Language="en_US">
+			<Text>Tumhalad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TALATH_DIRNEN" Language="en_US">
+			<Text>Talath Dirnen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TARN_AELUIN" Language="en_US">
+			<Text>Tarn Aeluin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NIMBRETHIL" Language="en_US">
+			<Text>Nimbrethil</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EITHEL_IVRIN" Language="en_US">
+			<Text>Eithel Ivrin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANACH" Language="en_US">
+			<Text>Anach</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NUATH" Language="en_US">
+			<Text>Núath</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RINGWIL" Language="en_US">
+			<Text>Ringwil</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GINGLITH" Language="en_US">
+			<Text>Ginglith</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NAROG" Language="en_US">
+			<Text>Narog</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RIVIL" Language="en_US">
+			<Text>Rivil</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MALDUIN" Language="en_US">
+			<Text>Malduin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LADROS" Language="en_US">
+			<Text>Ladros</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMON_ETHIR" Language="en_US">
+			<Text>Amon Ethir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BAR_ERIB" Language="en_US">
+			<Text>Bar Erib</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BRITHON" Language="en_US">
+			<Text>Brithon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NENNING" Language="en_US">
+			<Text>Nenning</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GLITHUI" Language="en_US">
+			<Text>Glithui</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMYN_EGLAIN" Language="en_US">
+			<Text>Emyn Eglain</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OROD_NA_THON" Language="en_US">
+			<Text>Orod-na-Thôn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ECHAD_FINARFIN" Language="en_US">
+			<Text>Echad Finarfin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMON_DARTHIR" Language="en_US">
+			<Text>Amon Darthir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BAR_I_DAGORLIND" Language="en_US">
+			<Text>Bar-i-Dagorlind</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OTHRONN_AEGNOR" Language="en_US">
+			<Text>Othronn Aegnor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CARDHON_ANGROD" Language="en_US">
+			<Text>Cardhon Angrod</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RAS_MEWRIM" Language="en_US">
+			<Text>Ras Mewrim</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BAR_IN_MYL" Language="en_US">
+			<Text>Bar-in-Mŷl</Text>
+		</Row>
+		<!-- END OF HOUSE FINARFIN | FINROD -->
+		<!-- HOUSE OF FINARFIN | ORODRETH	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_ORODRETH" Language="en_US">
+			<Text>Orodreth was the son of Finarfin's son Angrod. He once held the isle of Minas Tirith in the vale of Sirion until Sauron overran the isle and turned it into Tol-in-Gaurhoth. Orodreth then fled south to Nargothrond.</Text>
+		</Row>
+		<!-- END OF HOUSE FINARFIN | ORODRETH -->
+		<!-- HOUSE OF FINARFIN | ANGROD	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_ANGROD" Language="en_US">
+			<Text>Angrod was the second son of Finarfin and lord of the Ñoldor of Dorthonion. He was the father of Orodreth and subsequently grandfather of the famed Gil-galad. Together with Aegnor he held the northern slopes of the highlands of Dorthonion against Morgoth. They were both killed in the Dagor Bragollach.</Text>
+		</Row>
+		<!-- END OF HOUSE FINARFIN | ANGROD -->
+		<!-- MORGOTH | MORGOTH	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_MORGOTH" Language="en_US">
+			<Text>Melkor, later known Morgoth,was the first Dark Lord, and the primordial source of evil in Eä. Originally the most powerful of the Ainur created by Eru Iluvatar, Melkor rebelled against his creator out of pride. After committing many evils in the First Age, such as the theft of the Silmarils, which resulted in his name Morgoth, and the destruction of the Two Lamps and the Two Trees of Valinor, Morgoth was defeated by the Host of Valinor in the War of Wrath and cast out of Arda into the Void, where he now waits. </Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANGBAND" Language="en_US">
+			<Text>Angband</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UTUMNO" Language="en_US">
+			<Text>Utumno</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THANGORODRIM" Language="en_US">
+			<Text>Thangorodrim</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TOL_IN_GAURHOTH" Language="en_US">
+			<Text>Tol-in-Gaurhoth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NETHERMOST_HALL" Language="en_US">
+			<Text>Nethermost Hall</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DOR_DAEDELOTH" Language="en_US">
+			<Text>Dor Daedeloth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANFAUGLITH" Language="en_US">
+			<Text>Anfauglith</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DOR_DAIDELOS" Language="en_US">
+			<Text>Dor Daidelos</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ERED_GORGOROTH" Language="en_US">
+			<Text>Ered Gorgoroth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ERED_ENGRIN" Language="en_US">
+			<Text>Ered Engrin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NAN_TATHREN" Language="en_US">
+			<Text>Nan-tathren</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GATES_ANGBAND" Language="en_US">
+			<Text>Gates of Angband</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NAN_DUNGORTHEB" Language="en_US">
+			<Text>Nan Dungortheb</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TAUR_NU_FUIN" Language="en_US">
+			<Text>Taur-nu-Fuin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TORECH_GORTHAUR" Language="en_US">
+			<Text>Torech Gorthaur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DOR_NU_FAUGLITH" Language="en_US">
+			<Text>Dor-nu-Fauglith</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DELDUWATH" Language="en_US">
+			<Text>Deldúwath</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LADWEN_NA_DHAIDELOTH" Language="en_US">
+			<Text>Ladwen-na-Dhaideloth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DOR_NA_DAERACHAS" Language="en_US">
+			<Text>Dor-na-Daerachas</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PITS_OF_MELKOR" Language="en_US">
+			<Text>Pits of Melkor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HELCARAXE" Language="en_US">
+			<Text>Helcaraxë</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MINHELDOLATH" Language="en_US">
+			<Text>Minheldolath</Text>
+		</Row>
+		<!-- END OF MORGOTH | MORGOTH -->
+		<!-- DORIATH | THINGOL	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_THINGOL" Language="en_US">
+			<Text>Thingol was the founder and first King of the northern Elven Kingdom of Doriath and was respected by all the Sindar of the Beleriand, who considered him to be the High King of the Sindar and the Lord of Beleriand. He and Melian, a Maia, become king and queen of the Teleri who stay in Beleriand, who then become known as the Sindar.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MENEGROTH" Language="en_US">
+			<Text>Menegroth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NELDORETH" Language="en_US">
+			<Text>Neldoreth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_REGION" Language="en_US">
+			<Text>Region</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NIVRIM" Language="en_US">
+			<Text>Nivrim</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NAN_ELMOTH" Language="en_US">
+			<Text>Nan Elmoth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BRETHIL" Language="en_US">
+			<Text>Brethil</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AELIN_UIAL" Language="en_US">
+			<Text>Aelin-uial</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ESGALDUIN" Language="en_US">
+			<Text>Esgalduin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AROS" Language="en_US">
+			<Text>Aros</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MINDEB" Language="en_US">
+			<Text>Mindeb</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TAEGLIN" Language="en_US">
+			<Text>Taeglin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DIMROST" Language="en_US">
+			<Text>Dimrost</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EPHEL_BRANDIR" Language="en_US">
+			<Text>Ephel Brandir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMON_OBEL" Language="en_US">
+			<Text>Amon Obel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DIMBAR" Language="en_US">
+			<Text>Dimbar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CABED_EN_ARAS" Language="en_US">
+			<Text>Cabed-en-Aras</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ARTHORIEN" Language="en_US">
+			<Text>Arthórien</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_METHIRIAD" Language="en_US">
+			<Text>Methiriad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NAN_DAIRON" Language="en_US">
+			<Text>Nan Dairon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NEN_GIRITH" Language="en_US">
+			<Text>Nen Girith</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LITHIR" Language="en_US">
+			<Text>Lithir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ECHAD_BELEG" Language="en_US">
+			<Text>Echad Beleg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAR_DIOR" Language="en_US">
+			<Text>Car Dior</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TIRITH_EGLADOR" Language="en_US">
+			<Text>Tirith Eglador</Text>
+		</Row>
+		<!-- END OF DORIATH | THINGOL -->
+		<!-- DORIATH | DIOR	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_DIOR" Language="en_US">
+			<Text>Dior Eluchîl, was a Half-Elf son of the renowned Man Beren and the legendary Elven-princess Lúthien of Doriath. He thereafter became the King of Doriath as he was heir to the throne of King Thingol of Doriath and also became the High King of the Sindar.</Text>
+		</Row>
+		<!-- END OF DORIATH | DIOR	-->
+		<!-- OSSIRIAND | DENETHOR	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_DENETHOR" Language="en_US">
+			<Text>Denethor led many of his people over the Blue Mountains to Beleriand. They settled in Ossiriand, renaming it Lindon, in the east of Beleriand, and Denethor became their king. Morgoth loosed an army on Beleriand beginning the First Battle. The lightly-armed Laiquendi were driven back to the great hill of Amon Ereb, where Denethor was slain. The Laiquendi became a reclusive people, seldom taking up arms, and never again naming a king.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OSSIRIAND" Language="en_US">
+			<Text>Ossiriand</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CARAS_DENETHORA" Language="en_US">
+			<Text>Caras Denethora</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUILWEN" Language="en_US">
+			<Text>Duilwen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ADURANT" Language="en_US">
+			<Text>Adurant</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BRITHLOR" Language="en_US">
+			<Text>Brilthor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LEGOLIN" Language="en_US">
+			<Text>Legolin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THALOS" Language="en_US">
+			<Text>Thalos</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RATHLORIEL" Language="en_US">
+			<Text>Rathlóriel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DOR_FIRN_I_GUINAR" Language="en_US">
+			<Text>Dor Firn-i-Guinar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TOL_GALEN" Language="en_US">
+			<Text>Tol Galen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GELION" Language="en_US">
+			<Text>Gelion</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LANTHIR_LAMATH" Language="en_US">
+			<Text>Lanthir Lamath</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ASCAR" Language="en_US">
+			<Text>Ascar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DOR_WINION" Language="en_US">
+			<Text>Dor-Winion</Text>
+		</Row>
+		<!-- END OF OSSIRIAND | DENETHOR	-->
+		<!-- EDAIN | HURIN	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_HURIN_THALION" Language="en_US">
+			<Text>Húrin Thalion was a hero and the greatest warrior of Men during the First Age. Húrin was the Lord of Dor-lómin and ruled over the Hadorian fief of Dor-lómin in Hithlum. </Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HURINS_HOUSE" Language="en_US">
+			<Text>Hurin's House</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMON_RUDH" Language="en_US">
+			<Text>Amon Rûdh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_METHED_EN_GLAD" Language="en_US">
+			<Text>Methed-en-glad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NEN_LALAITH" Language="en_US">
+			<Text>Nen Lalaith</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OBEL_HALAD" Language="en_US">
+			<Text>Obel Halad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CELEBROS" Language="en_US">
+			<Text>Celebros</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMON_DRATHIR" Language="en_US">
+			<Text>Amon Darthir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BAR_MARACH" Language="en_US">
+			<Text>Bar Marach</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CERIN_HALETH" Language="en_US">
+			<Text>Cerin Haleth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DARA_LARNACH" Language="en_US">
+			<Text>Dara Larnach</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAR_BARAN" Language="en_US">
+			<Text>Car Baran</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BAR_I_HALETHRIM" Language="en_US">
+			<Text>Bar-i-Halethrim</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ADAD_ARADAN" Language="en_US">
+			<Text>Adad Aradan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BAR_BEORA" Language="en_US">
+			<Text>Bar Beöra</Text>
+		</Row>
+		<!-- END OF EDAIN | HURIN	-->
+		<!-- DWARVES | DURIN	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_DURIN" Language="en_US">
+			<Text>King Durin I was the oldest of the Seven Fathers of the Dwarves, first created by Aulë the Vala. Durin was set to sleep alone beneath Mount Gundabad in Middle-earth until the Elves awoke. Upon his awakening at Mount Gundabad in the Years of the Trees, he traveled until he came upon the Mirrormere, the lake that the Dwarves call Kheled-zâram. He created there a great city within the Misty Mountains. This was Khazad-dûm, known by Elves as Moria. </Text>
+		</Row>
+		<!-- END OF DWARVES | DURIN	-->
+		<!-- DWARVES | AZAGHAL	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_AZAGHAL" Language="en_US">
+			<Text>Azaghâl was the King of the Broadbeam Dwarves, one of the seven Dwarf clans, and was lord of the kingdom of Belegost in the Blue Mountains during the First Age. He and his Dwarves fighted alone in the Battle of Nirnaeth Arnoediad against the Dragon Glaurung, the Father of Dragons.</Text>
+		</Row>
+		<!-- END OF DWARVES | AZAGHAL	-->
+		<!-- DWARVES | NAUGLADUR	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_NAUGLADUR" Language="en_US">
+			<Text>Naugladur was the Lord of Nogrod; the King of the Wicked dwarves of Nogrod. More prone to evil to gain their ends, and more exclusively impelled by greed; that Doriath should be laid waste by mercenary Orcs under Dwarvish paymasters.</Text>
+		</Row>
+		<!-- END OF DWARVES | NAUGLADUR	-->
+		<!-- AMAN | FINARFIN	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_FINARFIN" Language="en_US">
+			<Text>Finarfin was the youngest child and third son of Finwë, High-King of the Noldor in Aman, with his second wife Indis of the Vanyar. He departed with his brothers Fëanor and Fingolfin for Middle-earth, but turned back when Mandos pronounced the Doom of the Ñoldor. Finarfin and his people were pardoned by the Valar, and then he became King of the residual Ñoldor in Aman and presumably still rules from Tirion. During the War of Wrath, Finarfin led a large battalion of the Valar, comprised of Ñoldorin, Vanyarin, and Telerin Elves. </Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TIRION" Language="en_US">
+			<Text>Tirion</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALQUALONDE" Language="en_US">
+			<Text>Alqualondë</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TANIQUETIL" Language="en_US">
+			<Text>Taniquetil</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TOL_ERESSEA" Language="en_US">
+			<Text>Tol Eressëa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ELDAMAR" Language="en_US">
+			<Text>Eldamar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KORTIRION" Language="en_US">
+			<Text>Kortirion</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AVALLONE" Language="en_US">
+			<Text>Avallonë</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FORMENOS" Language="en_US">
+			<Text>Formenos</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TAVROBEL" Language="en_US">
+			<Text>Tavrobel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VALINOR" Language="en_US">
+			<Text>Valinor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HAERAST" Language="en_US">
+			<Text>Haerast</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VALMAR" Language="en_US">
+			<Text>Valmar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TUNA" Language="en_US">
+			<Text>Túna</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CALACIRYA" Language="en_US">
+			<Text>Calacirya</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EZELLOHAR" Language="en_US">
+			<Text>Ezellohar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HIRI" Language="en_US">
+			<Text>Híri</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SIRNUMEN" Language="en_US">
+			<Text>Sirnúmen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALALMINORE" Language="en_US">
+			<Text>Alalminórë</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MAR_VANWA_TYALIEVA" Language="en_US">
+			<Text>Mar Vanwa Tyaliéva</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AVALLONDE" Language="en_US">
+			<Text>Avallóne</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_INWINORE" Language="en_US">
+			<Text>Inwinóre</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANDOROTHE" Language="en_US">
+			<Text>Andoróthe</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ELENDE" Language="en_US">
+			<Text>Elendë</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VANSAMIRIN" Language="en_US">
+			<Text>Vansamírin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IRTINSA" Language="en_US">
+			<Text>Irtinsa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CALACIRIAN" Language="en_US">
+			<Text>Calacirian</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ELERRINA" Language="en_US">
+			<Text>Elerrína</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OIOLOSSE" Language="en_US">
+			<Text>Oiolossë</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ARFANYARASSE" Language="en_US">
+			<Text>Arfanyarassë</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMON_UILOS" Language="en_US">
+			<Text>Amon Uilos</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MINDON_ELDALIEVA" Language="en_US">
+			<Text>Mindon Eldaliéva</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OIOMURE" Language="en_US">
+			<Text>Oiomúrë</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_QERKARINGA" Language="en_US">
+			<Text>Qerkaringa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HYARMENTIR" Language="en_US">
+			<Text>Hyarmentir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ARAMAN" Language="en_US">
+			<Text>Araman</Text>
+		</Row>
+		
+		<!-- AMAN: ,  , , , ,  -->
+		<!-- END OF AMAN | FINARFIN	-->
+		<!-- AMAN | INGWE	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_INGWE" Language="en_US">
+			<Text>Ingwë was a Vanyar Elf, the King of the Vanyar and the High King of the Elves. Ingwë became the first of the Vanyar to travel to Valinor with Oromë. Loving its beauty and bliss, he returned to his people and urged them to undertake a journey to Aman. He and his kin were fascinated with the Valar.</Text>
+		</Row>
+		<!-- END OF AMAN | INGWE	-->
+		<!-- AMAN | OLWE	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_OLWE" Language="en_US">
+			<Text>Olwë was an Elf of the Teleri of Aman. When he and his kin reached Aman, they chose to remain there in both Tol Eressëa and Alqualondë apart from the rest of the Elves of Aman. He became both Lord of Alqualondë and King of the Teleri. The cruel slaying at the havens continued to haunt Olwë and his people for many years to come. Towards the end of the First Age when the Valar were preparing for the final assault on Morgoth, the Teleri of Olwë agreed only to sail the ships for very few of them were willing to go to war.</Text>
+		</Row>
+		<!-- END OF AMAN | OLWE	-->
+		<!-- BEOR-->
+		<Row Tag="LOC_MINOR_CIV_BEOR_TRAIT_NAME" Language="en_US">
+			<Text>Beor of Estolad</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_BEOR_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Other civilizations' [ICON_TRADEROUTE] Trade Routes to you provide +2 Faith [ICON_FAITH].</Text>
+		</Row>
+		<Row Tag="LOC_BEOR_NAME" Language="en_US">
+			<Text>Beor</Text>
+		</Row>
+		<Row Tag="LOC_BEOR_DESCRIPTION" Language="en_US">
+			<Text>City State of Beor Estolad</Text>
+		</Row>
+		<Row Tag="LOC_BEOR_ADJECTIVE" Language="en_US">
+			<Text>Beor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BEOR" Language="en_US">
+			<Text>Beor of Estolad</Text>
+		</Row>
+		<!-- HALADIN-->
+		<Row Tag="LOC_MINOR_CIV_HALADIN_TRAIT_NAME" Language="en_US">
+			<Text>Haleth</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_HALADIN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Holy Sites gains +1 [ICON_Faith] Faith for Forest adjacency.</Text>
+		</Row>
+		<Row Tag="LOC_HALADIN_NAME" Language="en_US">
+			<Text>Haleth</Text>
+		</Row>
+		<Row Tag="LOC_HALADIN_DESCRIPTION" Language="en_US">
+			<Text>City State of Haleth</Text>
+		</Row>
+		<Row Tag="LOC_HALADIN_ADJECTIVE" Language="en_US">
+			<Text>Haleth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HALADIN" Language="en_US">
+			<Text>Haleth</Text>
+		</Row>
+		<!-- MARACH-->
+		<Row Tag="LOC_MINOR_CIV_MARACH_TRAIT_NAME" Language="en_US">
+			<Text>Marach</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MARACH_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>-50% war weariness from combat in your territory.</Text>
+		</Row>
+		<Row Tag="LOC_MARACH_NAME" Language="en_US">
+			<Text>Marach</Text>
+		</Row>
+		<Row Tag="LOC_MARACH_DESCRIPTION" Language="en_US">
+			<Text>City State of Marach</Text>
+		</Row>
+		<Row Tag="LOC_MARACH_ADJECTIVE" Language="en_US">
+			<Text>Marach</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MARACH" Language="en_US">
+			<Text>Marach</Text>
+		</Row>
+		<!-- Bor-->
+		<Row Tag="LOC_MINOR_CIV_BOR_TRAIT_NAME" Language="en_US">
+			<Text>Bor</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_BOR_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Receive the [ICON_RESOURCE_HORSES] Horses and [ICON_RESOURCE_SHEEP] Sheep.</Text>
+		</Row>
+		<Row Tag="LOC_BOR_NAME" Language="en_US">
+			<Text>Bor</Text>
+		</Row>
+		<Row Tag="LOC_BOR_DESCRIPTION" Language="en_US">
+			<Text>City State of Bor</Text>
+		</Row>
+		<Row Tag="LOC_BOR_ADJECTIVE" Language="en_US">
+			<Text>Bor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BOR" Language="en_US">
+			<Text>Bor</Text>
+		</Row>
+		<!-- Ulfang-->
+		<Row Tag="LOC_MINOR_CIV_ULFANG_TRAIT_NAME" Language="en_US">
+			<Text>Ulfang</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_ULFANG_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Light cavalry units receive +4 [ICON_Strength] Combat Strength.</Text>
+		</Row>
+		<Row Tag="LOC_ULFANG_NAME" Language="en_US">
+			<Text>Ulfang</Text>
+		</Row>
+		<Row Tag="LOC_ULFANG_DESCRIPTION" Language="en_US">
+			<Text>City State of Ulfang</Text>
+		</Row>
+		<Row Tag="LOC_ULFANG_ADJECTIVE" Language="en_US">
+			<Text>Ulfang</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ULFANG" Language="en_US">
+			<Text>Ulfang</Text>
+		</Row>
+		<!-- Belegost-->
+		<Row Tag="LOC_MINOR_CIV_BELEGOST_TRAIT_NAME" Language="en_US">
+			<Text>Belegost</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_BELEGOST_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Commercial Hubs gains 1 [ICON_Gold] Gold if they are next to a Mountain. </Text>
+		</Row>
+		<Row Tag="LOC_BELEGOST_NAME" Language="en_US">
+			<Text>Belegost</Text>
+		</Row>
+		<Row Tag="LOC_BELEGOST_DESCRIPTION" Language="en_US">
+			<Text>City State of Belegost</Text>
+		</Row>
+		<Row Tag="LOC_BELEGOST_ADJECTIVE" Language="en_US">
+			<Text>Belegost</Text>
+		</Row>
+		<!-- Nogrod-->
+		<Row Tag="LOC_MINOR_CIV_NOGROD_TRAIT_NAME" Language="en_US">
+			<Text>Nogrod</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_NOGROD_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Mines gain +1 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_NOGROD_NAME" Language="en_US">
+			<Text>Nogrod</Text>
+		</Row>
+		<Row Tag="LOC_NOGROD_DESCRIPTION" Language="en_US">
+			<Text>City State of Nogrod</Text>
+		</Row>
+		<Row Tag="LOC_NOGROD_ADJECTIVE" Language="en_US">
+			<Text>Nogrod</Text>
+		</Row>
+		<!-- Falas-->
+		<Row Tag="LOC_MINOR_CIV_FALAS_TRAIT_NAME" Language="en_US">
+			<Text>Falas</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_FALAS_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All districts gain +1 [ICON_Gold] Gold for being adjacent to the Coast.</Text>
+		</Row>
+		<Row Tag="LOC_FALAS_NAME" Language="en_US">
+			<Text>Falas</Text>
+		</Row>
+		<Row Tag="LOC_FALAS_DESCRIPTION" Language="en_US">
+			<Text>City State of Falas</Text>
+		</Row>
+		<Row Tag="LOC_FALAS_ADJECTIVE" Language="en_US">
+			<Text>Falas</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FALAS" Language="en_US">
+			<Text>Falas</Text>
+		</Row>
+		<!-- Eol-->
+		<Row Tag="LOC_MINOR_CIV_EOL_TRAIT_NAME" Language="en_US">
+			<Text>Eöl</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_EOL_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Industrial Zones gains +1 [ICON_Production] Production for Forest adjacency.</Text>
+		</Row>
+		<Row Tag="LOC_EOL_NAME" Language="en_US">
+			<Text>Eöl</Text>
+		</Row>
+		<Row Tag="LOC_EOL_DESCRIPTION" Language="en_US">
+			<Text>City State of Eöl</Text>
+		</Row>
+		<Row Tag="LOC_EOL_ADJECTIVE" Language="en_US">
+			<Text>Eöl</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EOL" Language="en_US">
+			<Text>House of Eöl</Text>
+		</Row>
+		<!-- Petty-dwarves-->
+		<Row Tag="LOC_MINOR_CIV_PETTYDWARVES_TRAIT_NAME" Language="en_US">
+			<Text>Petty-dwarves</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_PETTYDWARVES_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Mines gain +1 [ICON_Culture] Culture.</Text>
+		</Row>
+		<Row Tag="LOC_PETTYDWARVES_NAME" Language="en_US">
+			<Text>Petty-dwarves </Text>
+		</Row>
+		<Row Tag="LOC_PETTYDWARVES_DESCRIPTION" Language="en_US">
+			<Text>City State of Petty-dwarves </Text>
+		</Row>
+		<Row Tag="LOC_PETTYDWARVES_ADJECTIVE" Language="en_US">
+			<Text>Petty-dwarves </Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BARENNIBINNOEG" Language="en_US">
+			<Text>Bar-en-Nibin-Noeg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NULUKKIZDIN" Language="en_US">
+			<Text>Nulukkizdîn</Text>
+		</Row>
+		<!-- Balar-->
+		<Row Tag="LOC_MINOR_CIV_BALAR_TRAIT_NAME" Language="en_US">
+			<Text>Balar</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_BALAR_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All districts gain +1 [ICON_Faith] Faith for being adjacent to the Coast.</Text>
+		</Row>
+		<Row Tag="LOC_BALAR_NAME" Language="en_US">
+			<Text>Balar</Text>
+		</Row>
+		<Row Tag="LOC_BALAR_DESCRIPTION" Language="en_US">
+			<Text>City State of Balar</Text>
+		</Row>
+		<Row Tag="LOC_BALAR_ADJECTIVE" Language="en_US">
+			<Text>Balar</Text>
+		</Row>
+		<!-- Sirion-->
+		<Row Tag="LOC_MINOR_CIV_SIRION_TRAIT_NAME" Language="en_US">
+			<Text>Havens of Sirion</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SIRION_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All districts gain +1 [ICON_Culture] Culture for being adjacent to the Coast.</Text>
+		</Row>
+		<Row Tag="LOC_SIRION_NAME" Language="en_US">
+			<Text>Havens of Sirion</Text>
+		</Row>
+		<Row Tag="LOC_SIRION_DESCRIPTION" Language="en_US">
+			<Text>City State of Havens of Sirion</Text>
+		</Row>
+		<Row Tag="LOC_SIRION_ADJECTIVE" Language="en_US">
+			<Text>Sirion</Text>
+		</Row>
+		<!-- BRODDA-->
+		<Row Tag="LOC_MINOR_CIV_BRODDA_TRAIT_NAME" Language="en_US">
+			<Text>Brodda</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_BRODDA_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Combat victories provide [ICON_Faith] Faith equal to 20% of the [ICON_Strength] Combat Strength of the defeated unit.</Text>
+		</Row>
+		<Row Tag="LOC_BRODDA_NAME" Language="en_US">
+			<Text>Brodda</Text>
+		</Row>
+		<Row Tag="LOC_BRODDA_DESCRIPTION" Language="en_US">
+			<Text>City State of Brodda</Text>
+		</Row>
+		<Row Tag="LOC_BRODDA_ADJECTIVE" Language="en_US">
+			<Text>Brodda</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BRODDA" Language="en_US">
+			<Text>Hall's of Brodda</Text>
+		</Row>
+		<!-- LORGAN-->
+		<Row Tag="LOC_MINOR_CIV_LORGAN_TRAIT_NAME" Language="en_US">
+			<Text>Lorgan</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_LORGAN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Mines gain +1 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_LORGAN_NAME" Language="en_US">
+			<Text>Lorgan</Text>
+		</Row>
+		<Row Tag="LOC_LORGAN_DESCRIPTION" Language="en_US">
+			<Text>City State of Lorgan</Text>
+		</Row>
+		<Row Tag="LOC_LORGAN_ADJECTIVE" Language="en_US">
+			<Text>Lorgan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LORGAN" Language="en_US">
+			<Text>Hall's of Lorgan</Text>
+		</Row>
+		<!-- HADOR-->
+		<Row Tag="LOC_MINOR_CIV_HADOR_TRAIT_NAME" Language="en_US">
+			<Text>Hador</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_HADOR_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength when fighting on Hills</Text>
+		</Row>
+		<Row Tag="LOC_HADOR_NAME" Language="en_US">
+			<Text>Hador</Text>
+		</Row>
+		<Row Tag="LOC_HADOR_DESCRIPTION" Language="en_US">
+			<Text>City State of Hador</Text>
+		</Row>
+		<Row Tag="LOC_HADOR_ADJECTIVE" Language="en_US">
+			<Text>Hador</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HADOR" Language="en_US">
+			<Text>Hador</Text>
+		</Row>
+		<!-- BEOR_LADROS-->
+		<Row Tag="LOC_MINOR_CIV_BEOR_LADROS_TRAIT_NAME" Language="en_US">
+			<Text>Beor of Ladros</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_BEOR_LADROS_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your [ICON_TradeRoute] Trade Routes to any city-state provide +2 [ICON_Culture] Culture and +1 [ICON_Gold] Gold for every specialty district in the origin city.</Text>
+		</Row>
+		<Row Tag="LOC_BEOR_LADROS_NAME" Language="en_US">
+			<Text>Beor of Ladros</Text>
+		</Row>
+		<Row Tag="LOC_BEOR_LADROS_DESCRIPTION" Language="en_US">
+			<Text>City State of Beor of Ladros</Text>
+		</Row>
+		<Row Tag="LOC_BEOR_LADROS_ADJECTIVE" Language="en_US">
+			<Text>Beor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BEOR_LADROS" Language="en_US">
+			<Text>Beor of Ladros</Text>
+		</Row>
+		<!-- DOR_CUARTHOL-->
+		<Row Tag="LOC_MINOR_CIV_DOR_CUARTHOL_TRAIT_NAME" Language="en_US">
+			<Text>Dor-Cúarthol</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_DOR_CUARTHOL_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Combat victories provide [ICON_Gold] Gold equal to 25% of the [ICON_Strength] Combat Strength of the defeated unit.</Text>
+		</Row>
+		<Row Tag="LOC_DOR_CUARTHOL_NAME" Language="en_US">
+			<Text>Dor-Cúarthol</Text>
+		</Row>
+		<Row Tag="LOC_DOR_CUARTHOL_DESCRIPTION" Language="en_US">
+			<Text>City State of Dor-Cúarthol</Text>
+		</Row>
+		<Row Tag="LOC_DOR_CUARTHOL_ADJECTIVE" Language="en_US">
+			<Text>Dor-Cúarthol</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DOR_CUARTHOL" Language="en_US">
+			<Text>Dor-Cúarthol</Text>
+		</Row>
+		<!-- End of City States-->
+	</LocalizedText>
+</GameData>

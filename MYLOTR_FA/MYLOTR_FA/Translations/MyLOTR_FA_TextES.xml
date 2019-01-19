@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- HOUSE OF FEANOR | FEANOR	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_FEANOR" Language="es_ES">
+			<Text>Fëanor nació en Valinor, el único hijo de Finwë, Alto Rey de los Ñoldor y su primera mujer Míriel Therindë. Fue un renombrado artesano, herrero de gemas y guerrero pero sobretodo por ser el creador de los Silmarils. Después de saber de la muerte de su padre a manos de Morgoth, Fëanor volvió a Tirion, rompiendo su exilio por parte de los Valar. En Tirion, Fëanor dio un discurso que convenció a la mayoria de los Ñoldor para seguirlo a la Tierra Media para recuperar los Silmarils robados por Morgoth y vengar a su padre Finwë. Fëanor juro en nombre de Eru que perseguiria con violencia cualquier poseador de los Silmaril.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MAGLORS_GAP" Language="es_ES">
+			<Text>Maglor's Gap</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SOUTH_MITHRUM" Language="es_ES">
+			<Text>Sud Mithrim</Text>
+		</Replace>
+		<!-- END OF HOUSE FEANOR | FEANOR -->
+		<!-- HOUSE OF FEANOR | MAEDHROS	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_MAEDHROS" Language="es_ES">
+			<Text>Maedhros fue el princípe de los Ñoldor, el hijo mayor de Fëanor y líder de la Casa de Fëanor despues de la muerte de su padre. Fue un renombrado guerrero  y diplomático. Lucho durante cientos de años liderando su Casa contra las fuerzas de Morgoth pero su juramento de él y sus hermandos de recuperar los Silmarils le llevo a su muerte. </Text>
+		</Replace>
+		<!-- END OF HOUSE FEANOR | MAEDHROS -->
+		<!-- HOUSE OF FEANOR | CELEGORM	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_CELEGORM" Language="es_ES">
+			<Text>Celegorm, fue el tercer hijo de Fëanor y Nerdanel, gobernando con su hermano, Curufin. Celegorm fue un gran cazador y amigo de el Vala Oromë. De Oromë aprendio grandes habilidades de los pajaros, bestias y entendrer sus lenguajes. Se llevo de Valinor con él el Gran Sabuesoh Huan, como regalo de Oromë.</Text>
+		</Replace>
+		<!-- END OF HOUSE FEANOR | CELEGORM -->
+		<!-- HOUSE OF FEANOR | MAGLOR	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_MAGLOR" Language="es_ES">
+			<Text>Maglor fue el segundo hijo de Fëanor y Nerdanel. Fue el gran poeta y juglar de los Ñoldor, se decia que heredo el caracter elegante de su madre. Como los otros hijos de Fëanor, Maglor havia jurado recuperar los Silmarils de su padre que fueron robados por el Señor Oscuro Morgoth.</Text>
+		</Replace>
+		<!-- END OF HOUSE FEANOR | MAGLOR -->
+		<!-- HOUSE OF FEANOR | CARANTHIR	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_CARANTHIR" Language="es_ES">
+			<Text>Caranthir fue el cuarto hijo de Fëanor, el más severo y el más propenso a enojarse de los siete hermanos. Caranthir juró recuperar los Silmarils de su padre que fuero robados por el Señor Oscuro en Aman. Debido que su Reino bordeaba con los reinos Enanos de Nogrod y Belegost en las Montañas Azules (Ered Luin), se enriqueció controlando el comerció que atravesaba el Camino de los Enanos. </Text>
+		</Replace>
+		<!-- END OF HOUSE FEANOR | CARANTHIR -->
+		<!-- HOUSE OF FEANOR | AMROD	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_AMROD" Language="es_ES">
+			<Text>Amrod fue el hijo menor de Fëanor, junto su hermano gemelo Amras. Reinaba en las tierras de Estolad con su hermano gemelo.</Text>
+		</Replace>
+		<!-- END OF HOUSE FEANOR | AMROD -->
+		<!-- HOUSE OF FINGOLFIN | FINGOLFIN	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_FINGOLFIN" Language="es_ES">
+			<Text>Fingolfin was the second High King of the Ñoldor in Beleriand. He was the eldest son of Finwë and Indis, younger brother of Findis, older brother of Irimë and Finarfin, and the younger half-brother of Fëanor. He founded the House of Fingolfin, which ruled the Ñoldor in Middle-earth.  His wife was Anairë and his children were Fingon, Turgon, Aredhel, and Argon. Fingolfin was said to be the strongest, most steadfast, and most valiant of Finwë's sons.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HAVENS_OF_SIRION" Language="es_ES">
+			<Text>Puertos de Sirion</Text>
+		</Replace>
+		<!-- END OF HOUSE FINGOLFIN | FINGOLFIN -->
+		<!-- HOUSE OF FINGOLFIN | FINGON	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_FINGON" Language="es_ES">
+			<Text>Finrod fue el hijo mayor de Fingolfin. Fingon fue Thangorodrim y con la ayuda de Thorondor, Señor de la Águilas, encontro a su primo Maedhros colgado de la muñeca. Maedhros rogó que lo matará però Fingon cortó la mano de Maedhros para liberarlo. Debido ha esto Maedhros renunció a su reclamación para ser Alto Rey de los Ñoldor en favor de la Casa de Fingolfin.</Text>
+		</Replace>
+		<!-- END OF HOUSE FINGOLFIN | FINGON -->
+		<!-- HOUSE OF FINGOLFIN | TURGON	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_TURGON" Language="es_ES">
+			<Text>Turgon fue el segundo hijo de Fingolfin. Turgon fue Rey de Gondolin y despues de la muerte de su hermano, Fingon , Alto Rey de los Ñoldor. Por cientos den años de la Primera Edad, Turgon permaneció exitosamente oculto de los ojos y oidos de Morgoth hasta una traición que causo la caida de su reino. Turgon fue advertido por el Valar Ulmo para que creará un Reino secreto en un valle escondido llamado Tumladen en las montañas Echoriath. Despues de 52 años de trabajo secreto, Turgon lideró su gente a la nueva ciudad de Gondolin, donde governo durante más de 500 años, ignorando los grandes eventos de las Guerras de Beleriand.</Text>
+		</Replace>
+		<!-- END OF HOUSE FINGOLFIN | TURGON -->
+		<!-- HOUSE OF FINARFIN | FINROD	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_FINROD" Language="es_ES">
+			<Text>Finrod fue el hijo mayor de Finarfin y Eärwen, hermano de Galadriel, Angrod y Aegnor. Finrod fue uno de los más nobles elfos de la Casa Finarfin y amigo de los Hombres. Su nobleza y muerte salvando a Beren y su oposición al Juramento de Fëanor le permitió retornar a la vida en Valinor, hacinedolo el primer Elfo en ser reencarnado en las Tierras Inmortales antes del final de la Primera Edad. </Text>
+		</Replace>
+		<!-- END OF HOUSE FINARFIN | FINROD -->
+		<!-- HOUSE OF FINARFIN | ORODRETH	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_ORODRETH" Language="es_ES">
+			<Text>Orodreth fue hijo de Angrod, segundo hijo de Finarfin. Orodreth goberno la isla de Minas Tirith(Tol Sirion) hasta que Sauron invadió la isla y renombrandola como Tol-in-Gaurhoth. Orodreth huyo a la fortaleza del sur, Nargothrond.</Text>
+		</Replace>
+		<!-- END OF HOUSE FINARFIN | ORODRETH -->
+		<!-- HOUSE OF FINARFIN | ANGROD	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_ANGROD" Language="es_ES">
+			<Text>Angrod fue el segundo hijo de Finarfin y Señor de los Ñoldor de Dorthonion. El fue el padre de Orodreth y abuelo de Gil-galad el último Alto Rey de la Tierra Media. Junto con su hermano Aegnor, goberno las tierras altas del norte de Dorthonion contra Morgoth. El y su hermano fueron masacrados en la Dagor Bragollach.</Text>
+		</Replace>
+		<!-- END OF HOUSE FINARFIN | ANGROD -->
+		<!-- MORGOTH | MORGOTH	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_MORGOTH" Language="es_ES">
+			<Text>Melkor, más tarde conocido como Morgoth, fue el Primer Señor Oscuro y la primordial fuente del mal en Eä. Originalmente él más poderoso de los Ainur creados por Eru Iluvatar, Melkor se rebeló contra su creador por orgullo. Después de cometer muchas maldades en la Primera Edad, como por ejemplo el Robo de los Silmarils, lo cual le atribuyeron el nombre de Morgoth, y la destrucción de las Dos Lamparas y los Dos Arboles de Valinor. Morgoth fue derrotado por la hueste de Valinor en la Guerra de La Ira y fue expulsado de Arda hacia el Vació, donde actualment espera. </Text>
+		</Replace>
+		<!-- END OF MORGOTH | MORGOTH -->
+		<!-- DORIATH | THINGOL	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_THINGOL" Language="es_ES">
+			<Text>Thingol fue el fundador y el rey del Reino de Doriath y era respetado por todos los Sindar de Beleriand, era tambien considerado el Alto Rey de los Sindar y Señor de Beleriand. El y Melian, una Maia, se convirtieron en Rey y Reina de los Teleri que se quedaron en Beleriand, quienes pasaron ha ser conocidos como Elfos Sindar.</Text>
+		</Replace>
+		<!-- END OF DORIATH | THINGOL -->
+		<!-- DORIATH | DIOR	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_DIOR" Language="es_ES">
+			<Text>Dior Eluchîl, fue un Medio-Elfo hijo del renombrado Hombre Beren y la legendaria Princesa Elfa Lúthien de Doriath. Dior se convirtio en Rey de Doriath siendo el nieto del Rey Thingol de Doriath y tambien Alto Rey de los Sindar.</Text>
+		</Replace>
+		<!-- END OF DORIATH | DIOR	-->
+		<!-- OSSIRIAND | DENETHOR	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_DENETHOR" Language="es_ES">
+			<Text>Denethor lideró su gente atraves de las Montañas Azules a Beleriand. Se asentaron en Ossiriand, en el este de Beleriand, Denethor passó a ser el rey. Morgoth solto su ejercito para conquistar Beleriand, comenzando la Primera Batalla. Los Laiquendi, ligeramente armados, fueron empujados hacia la colina Amon Ereb,  donde Denethor fue masacrado. Los Laiquendi se convirtieron en gente solitiria, con pocas ganas de levantar las armas y sin nombrar ningun otro Rey.</Text>
+		</Replace>
+		<!-- END OF OSSIRIAND | DENETHOR	-->
+		<!-- EDAIN | HURIN	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_HURIN_THALION" Language="es_ES">
+			<Text>Húrin Thalion fue un heroe y el mejor guerrero de los Hombres durante la Primera Edad. Húrin fue Señor de Dor-lómin y goberno sobre el Feudo Hadorian de Dor-lómin en Hithlum. </Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HURINS_HOUSE" Language="es_ES">
+			<Text>Casa de Hurin</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AMON_RUDH" Language="es_ES">
+			<Text>Amon Rûdh</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_METHED_EN_GLAD" Language="es_ES">
+			<Text>Methed-en-glad</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AMON_DARTHIR" Language="es_ES">
+			<Text>Amon Darthir</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NEN_LALAITH" Language="es_ES">
+			<Text>Nen Lalaith</Text>
+		</Replace>
+		<!-- END OF EDAIN | HURIN	-->
+		<!-- DWARVES | DURIN	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_DURIN" Language="es_ES">
+			<Text>El Rey Durin I fue el más antiguo de los Siete Padres de los Enanos, él primero que creo el Vala Aulë. Durin fue puesto a dormir hasta que se despertaran los Elfos en el Monte Gundabad de la Tierra Media. Cuando se desperto en el Monte Gundabad en los Años de los Arboles, viajó hasta que encontro el Lago Espejo, conocido para los enanos como Kheled-zâram. Durin creo la gran ciudad dentro las Montañas Nublosas anomenada Khazad-dûm, conocida para los Elfos como Moria. </Text>
+		</Replace>
+		<!-- END OF DWARVES | DURIN	-->
+		<!-- DWARVES | AZAGHAL	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_AZAGHAL" Language="es_ES">
+			<Text>Azaghâl fue Rey de los Enanos Cintura Ancha, un de los siete Clanes Enanos, y Señor del Reino de Belegost en las Montañas Azules durante la Primera Edad. Él y sus Enanos lucharon solos contra el dragon Glaurung, Padre de los Dragones, en la batalla de Nirnaeth Arnoediad.</Text>
+		</Replace>
+		<!-- END OF DWARVES | AZAGHAL	-->
+		<!-- DWARVES | NAUGLADUR	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_NAUGLADUR" Language="es_ES">
+			<Text>Naugladur fue el Señor de Nogrod; el Rey de los Enanos Crueles de Nogrod. Más propensos a mal para obtener sus fines y impulsados por su codicia fueron los que saquearon Doriath con mercernarios Orcos.</Text>
+		</Replace>
+		<!-- END OF DWARVES | NAUGLADUR	-->
+		<!-- AMAN | FINARFIN	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_FINARFIN" Language="es_ES">
+			<Text>Finarfin fue el hijo menor de Finwë, Alto Rey de los Ñoldor en Aman, con su segunda esposa Indis de los Vanyar. Él partió con sus hermanos Fëanor y Fingolfin hacia la Tierra Media, pero dio la vuelta cuando Mandos pronunció la Maldición de los Ñoldor. Finarfin y su gente fueron perdonados por los Valar y se convirtió en Rey de los Ñoldor en Aman. Durante la Guerra de la Cólera, Finarfin lidero la gran Hueste de los Valar, compuesta de los Ñoldor, Vanyar y los Barcos Teleri. </Text>
+		</Replace>
+		<!-- END OF AMAN | FINARFIN	-->
+		<!-- AMAN | INGWE	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_INGWE" Language="es_ES">
+			<Text>Ingwë fue un Elfo Vanyar, Rey de los Vanyar y Alto Rey de los Elfos. Ingwë se convirtió en el primer Vanyar en viajar a Valinor con Oromë. Enamorado de su belleza, retornó a su gente para que emprendieran su viaje a Aman.</Text>
+		</Replace>
+		<!-- END OF AMAN | INGWE	-->
+		<!-- AMAN | OLWE	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_OLWE" Language="es_ES">
+			<Text>Olwë fue un Elfo de los Teleri que viajaron a Aman. Cuando su gente llego a Aman, ellos escogieron permenecer en Tol Eressëa y Alqualondë partados del resto de los Elfos de Aman. Él se convirtió en el Señor de Alqualondë y Rey de los Teleri. La cruel primera matanza de Elfos por Elfos en los puertos de Alqualondë afecto a Olwë y a su gente durante los siguientes años. Al final de la Primera Edad cuando los Valar prepararon el assalto final a Morgoth, los Teleri de Olwë accedieron solo a transportar con sus barcos la hueste hacia la guerra.</Text>
+		</Replace>
+		<!-- END OF AMAN | OLWE	-->
+		<!-- BEOR-->
+		<Replace Tag="LOC_MINOR_CIV_BEOR_TRAIT_NAME" Language="es_ES">
+			<Text>Beor de Estolad</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_BEOR_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Las Rutas de Comercio [ICON_TRADEROUTE] de otras civilizaciones proporcionan +2 Fe [ICON_FAITH].</Text>
+		</Replace>
+		<Replace Tag="LOC_BEOR_NAME" Language="es_ES">
+			<Text>Beor</Text>
+		</Replace>
+		<Replace Tag="LOC_BEOR_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Beor Estolad</Text>
+		</Replace>
+		<Replace Tag="LOC_BEOR_ADJECTIVE" Language="es_ES">
+			<Text>Beor</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BEOR" Language="es_ES">
+			<Text>Beor de Estolad</Text>
+		</Replace>
+		<!-- HALADIN-->
+		<Replace Tag="LOC_MINOR_CIV_HALADIN_TRAIT_NAME" Language="es_ES">
+			<Text>Haleth</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_HALADIN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Sitios Sagrados ganan +1 [ICON_Faith] Fe por adyacencia a Bosques.</Text>
+		</Replace>
+		<Replace Tag="LOC_HALADIN_NAME" Language="es_ES">
+			<Text>Haleth</Text>
+		</Replace>
+		<Replace Tag="LOC_HALADIN_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Haladin</Text>
+		</Replace>
+		<Replace Tag="LOC_HALADIN_ADJECTIVE" Language="es_ES">
+			<Text>Haladin</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HALADIN" Language="es_ES">
+			<Text>Haladin</Text>
+		</Replace>
+		<!-- MARACH-->
+		<Replace Tag="LOC_MINOR_CIV_MARACH_TRAIT_NAME" Language="es_ES">
+			<Text>Marach</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_MARACH_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>-50% hastío bélico por combate en tu territorio.</Text>
+		</Replace>
+		<Replace Tag="LOC_MARACH_NAME" Language="es_ES">
+			<Text>Marach</Text>
+		</Replace>
+		<Replace Tag="LOC_MARACH_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Marach</Text>
+		</Replace>
+		<Replace Tag="LOC_MARACH_ADJECTIVE" Language="es_ES">
+			<Text>Marach</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MARACH" Language="es_ES">
+			<Text>Marach</Text>
+		</Replace>
+		<!-- Bor-->
+		<Replace Tag="LOC_MINOR_CIV_BOR_TRAIT_NAME" Language="es_ES">
+			<Text>Bor</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_BOR_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Recibe los recursos de [ICON_RESOURCE_HORSES] Caballos y [ICON_RESOURCE_SHEEP] Ovejas.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOR_NAME" Language="es_ES">
+			<Text>Bor</Text>
+		</Replace>
+		<Replace Tag="LOC_BOR_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Bor</Text>
+		</Replace>
+		<Replace Tag="LOC_BOR_ADJECTIVE" Language="es_ES">
+			<Text>Bor</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BOR" Language="es_ES">
+			<Text>Bor</Text>
+		</Replace>
+		<!-- Ulfang-->
+		<Replace Tag="LOC_MINOR_CIV_ULFANG_TRAIT_NAME" Language="es_ES">
+			<Text>Ulfang</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_ULFANG_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>La Caballeria Ligera recibe +4 [ICON_Strength] Fuerza de Combate.</Text>
+		</Replace>
+		<Replace Tag="LOC_ULFANG_NAME" Language="es_ES">
+			<Text>Ulfang</Text>
+		</Replace>
+		<Replace Tag="LOC_ULFANG_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Ulfang</Text>
+		</Replace>
+		<Replace Tag="LOC_ULFANG_ADJECTIVE" Language="es_ES">
+			<Text>Ulfang</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ULFANG" Language="es_ES">
+			<Text>Ulfang</Text>
+		</Replace>
+		<!-- Belegost-->
+		<Replace Tag="LOC_MINOR_CIV_BELEGOST_TRAIT_NAME" Language="es_ES">
+			<Text>Belegost</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_BELEGOST_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Centros Comerciales dan 1 de Gold [ICON_Gold] si estan al lado de una Montaña.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELEGOST_NAME" Language="es_ES">
+			<Text>Belegost</Text>
+		</Replace>
+		<Replace Tag="LOC_BELEGOST_DESCRIPTION" Language="es_ES">
+			<Text>City State of Belegost</Text>
+		</Replace>
+		<Replace Tag="LOC_BELEGOST_ADJECTIVE" Language="es_ES">
+			<Text>Belegost</Text>
+		</Replace>
+		<!-- Nogrod-->
+		<Replace Tag="LOC_MINOR_CIV_NOGROD_TRAIT_NAME" Language="es_ES">
+			<Text>Nogrod</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_NOGROD_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todas las Minas ganan +1 [ICON_Production] Producción.</Text>
+		</Replace>
+		<Replace Tag="LOC_NOGROD_NAME" Language="es_ES">
+			<Text>Nogrod</Text>
+		</Replace>
+		<Replace Tag="LOC_NOGROD_DESCRIPTION" Language="es_ES">
+			<Text>City State of Nogrod</Text>
+		</Replace>
+		<Replace Tag="LOC_NOGROD_ADJECTIVE" Language="es_ES">
+			<Text>Nogrod</Text>
+		</Replace>
+		<!-- Falas-->
+		<Replace Tag="LOC_MINOR_CIV_FALAS_TRAIT_NAME" Language="es_ES">
+			<Text>Falas</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_FALAS_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todos los distritos ganan +1 [ICON_Gold] Oro por estar adyacentes a la Costa.</Text>
+		</Replace>
+		<Replace Tag="LOC_FALAS_NAME" Language="es_ES">
+			<Text>Falas</Text>
+		</Replace>
+		<Replace Tag="LOC_FALAS_DESCRIPTION" Language="es_ES">
+			<Text>City State of Falas</Text>
+		</Replace>
+		<Replace Tag="LOC_FALAS_ADJECTIVE" Language="es_ES">
+			<Text>Falas</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FALAS" Language="es_ES">
+			<Text>Falas</Text>
+		</Replace>
+		<!-- Eol-->
+		<Replace Tag="LOC_MINOR_CIV_EOL_TRAIT_NAME" Language="es_ES">
+			<Text>Eöl</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_EOL_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Zonas Industriales ganan +1 [ICON_Production] Producción por adyacencia a Bosques.</Text>
+		</Replace>
+		<Replace Tag="LOC_EOL_NAME" Language="es_ES">
+			<Text>Eöl</Text>
+		</Replace>
+		<Replace Tag="LOC_EOL_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Eöl</Text>
+		</Replace>
+		<Replace Tag="LOC_EOL_ADJECTIVE" Language="es_ES">
+			<Text>Eöl</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_EOL" Language="es_ES">
+			<Text>Casa de Eöl</Text>
+		</Replace>
+		<!-- Petty-dwarves-->
+		<Replace Tag="LOC_MINOR_CIV_PETTYDWARVES_TRAIT_NAME" Language="es_ES">
+			<Text>Enanos Mezquinos</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_PETTYDWARVES_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todas las Minas ganan +1 [ICON_Culture] Cultura.</Text>
+		</Replace>
+		<Replace Tag="LOC_PETTYDWARVES_NAME" Language="es_ES">
+			<Text>Enanos Mezquinos</Text>
+		</Replace>
+		<Replace Tag="LOC_PETTYDWARVES_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Enanos Mezquinos</Text>
+		</Replace>
+		<Replace Tag="LOC_PETTYDWARVES_ADJECTIVE" Language="es_ES">
+			<Text>Enanos Mezquinos</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BARENNIBINNOEG" Language="en_US">
+			<Text>Bar-en-Nibin-Noeg</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NULUKKIZDIN" Language="en_US">
+			<Text>Nulukkizdîn</Text>
+		</Replace>
+		<!-- Balar-->
+		<Replace Tag="LOC_MINOR_CIV_BALAR_TRAIT_NAME" Language="es_ES">
+			<Text>Balar</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_BALAR_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todos los distritos ganan +1 [ICON_Faith] Fe por estar adyacentes a la Costa.</Text>
+		</Replace>
+		<Replace Tag="LOC_BALAR_NAME" Language="es_ES">
+			<Text>Balar</Text>
+		</Replace>
+		<Replace Tag="LOC_BALAR_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Balar</Text>
+		</Replace>
+		<Replace Tag="LOC_BALAR_ADJECTIVE" Language="es_ES">
+			<Text>Balar</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BALAR" Language="es_ES">
+			<Text>Balar</Text>
+		</Replace>
+		<!-- Sirion-->
+		<Replace Tag="LOC_MINOR_CIV_SIRION_TRAIT_NAME" Language="es_ES">
+			<Text>Puertos de Sirion</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SIRION_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todos los distritos ganan +1 [ICON_Culture] Cultura por estar adyacentes a la Costa.</Text>
+		</Replace>
+		<Replace Tag="LOC_SIRION_NAME" Language="es_ES">
+			<Text>Puertos de Sirion</Text>
+		</Replace>
+		<Replace Tag="LOC_SIRION_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Puertos de Sirion</Text>
+		</Replace>
+		<Replace Tag="LOC_SIRION_ADJECTIVE" Language="es_ES">
+			<Text>Sirion</Text>
+		</Replace>
+		<!-- BRODDA-->
+		<Replace Tag="LOC_MINOR_CIV_BRODDA_TRAIT_NAME" Language="es_ES">
+			<Text>Brodda</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_BRODDA_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Las victorias en combate proporcionan Fe [ICON_Faith] equivalente al 20% de la Fuerza de combate [ICON_Strength] de la unidad derrotada.</Text>
+		</Replace>
+		<Replace Tag="LOC_BRODDA_NAME" Language="es_ES">
+			<Text>Brodda</Text>
+		</Replace>
+		<Replace Tag="LOC_BRODDA_DESCRIPTION" Language="es_ES">
+			<Text>Ciudades Estado de Brodda</Text>
+		</Replace>
+		<Replace Tag="LOC_BRODDA_ADJECTIVE" Language="es_ES">
+			<Text>Brodda</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BRODDA" Language="es_ES">
+			<Text>Casa de Brodda</Text>
+		</Replace>
+		<!-- LORGAN-->
+		<Replace Tag="LOC_MINOR_CIV_LORGAN_TRAIT_NAME" Language="es_ES">
+			<Text>Lorgan</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_LORGAN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todas las Minas ganan +1 [ICON_Production] Producción.</Text>
+		</Replace>
+		<Replace Tag="LOC_LORGAN_NAME" Language="es_ES">
+			<Text>Lorgan</Text>
+		</Replace>
+		<Replace Tag="LOC_LORGAN_DESCRIPTION" Language="es_ES">
+			<Text>Ciudades Estado de Lorgan</Text>
+		</Replace>
+		<Replace Tag="LOC_LORGAN_ADJECTIVE" Language="es_ES">
+			<Text>Lorgan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LORGAN" Language="es_ES">
+			<Text>Casa de Lorgan</Text>
+		</Replace>
+		<!-- HADOR-->
+		<Replace Tag="LOC_MINOR_CIV_HADOR_TRAIT_NAME" Language="es_ES">
+			<Text>Hador</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_HADOR_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+5 [ICON_Strength] Fuerza de Combate luchando en Colinas</Text>
+		</Replace>
+		<Replace Tag="LOC_HADOR_NAME" Language="es_ES">
+			<Text>Hador</Text>
+		</Replace>
+		<Replace Tag="LOC_HADOR_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Hador</Text>
+		</Replace>
+		<Replace Tag="LOC_HADOR_ADJECTIVE" Language="es_ES">
+			<Text>Hador</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HADOR" Language="es_ES">
+			<Text>Hador</Text>
+		</Replace>
+		<!-- BEOR_LADROS-->
+		<Replace Tag="LOC_MINOR_CIV_BEOR_LADROS_TRAIT_NAME" Language="es_ES">
+			<Text>Beor de Ladros</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_BEOR_LADROS_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Tus Rutas comerciales [ICON_TradeRoute] a cualquier ciudad-estado proporcionan +2 a Cultura [ICON_Culture] y +1 de Oro [ICON_Gold] por cada distrito de especialización en la ciudad de origen.</Text>
+		</Replace>
+		<Replace Tag="LOC_BEOR_LADROS_NAME" Language="es_ES">
+			<Text>Beor de Ladros</Text>
+		</Replace>
+		<Replace Tag="LOC_BEOR_LADROS_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado Beor de Ladros</Text>
+		</Replace>
+		<Replace Tag="LOC_BEOR_LADROS_ADJECTIVE" Language="es_ES">
+			<Text>Beor</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BEOR_LADROS" Language="es_ES">
+			<Text>Beor de Ladros</Text>
+		</Replace>
+		<!-- DOR_CUARTHOL-->
+		<Replace Tag="LOC_MINOR_CIV_DOR_CUARTHOL_TRAIT_NAME" Language="es_ES">
+			<Text>Dor-Cúarthol</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_DOR_CUARTHOL_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Las victorias en combate proporcionan Oro [ICON_Gold] equivalente al 25% de la Fuerza de combate [ICON_Strength] de la unidad derrotada.</Text>
+		</Replace>
+		<Replace Tag="LOC_DOR_CUARTHOL_NAME" Language="es_ES">
+			<Text>Dor-Cúarthol</Text>
+		</Replace>
+		<Replace Tag="LOC_DOR_CUARTHOL_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Dor-Cúarthol</Text>
+		</Replace>
+		<Replace Tag="LOC_DOR_CUARTHOL_ADJECTIVE" Language="es_ES">
+			<Text>Dor-Cúarthol</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DOR_CUARTHOL" Language="es_ES">
+			<Text>Dor-Cúarthol</Text>
+		</Replace>
+		<!-- End of City States-->
+	</LocalizedText>
+</GameData>

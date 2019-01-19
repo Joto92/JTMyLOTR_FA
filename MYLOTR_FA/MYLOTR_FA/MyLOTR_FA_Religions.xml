@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<FavoredReligions>
+		<Row LeaderType="LEADER_FEANOR" ReligionType="RELIGION_AULE" />
+		<Row LeaderType="LEADER_MAEDHROS" ReligionType="RELIGION_AULE" />
+		<Row LeaderType="LEADER_CELEGORM" ReligionType="RELIGION_OROME" />
+		<Row LeaderType="LEADER_MAGLOR" ReligionType="RELIGION_ELBERETH" />
+		<Row LeaderType="LEADER_CARANTHIR" ReligionType="RELIGION_AULE" />
+		<Row LeaderType="LEADER_AMROD" ReligionType="RELIGION_AULE" />
+		<Row LeaderType="LEADER_FINGOLFIN" ReligionType="RELIGION_MANWE" />
+		<Row LeaderType="LEADER_FINGON" ReligionType="RELIGION_MANWE" />
+		<Row LeaderType="LEADER_TURGON" ReligionType="RELIGION_ULMO" />
+		<Row LeaderType="LEADER_FINROD" ReligionType="RELIGION_ULMO" />
+		<Row LeaderType="LEADER_ORODRETH" ReligionType="RELIGION_ELBERETH" />
+		<Row LeaderType="LEADER_ANGROD" ReligionType="RELIGION_ELBERETH" />
+		<Row LeaderType="LEADER_MORGOTH" ReligionType="RELIGION_MORGOTH" />
+		<Row LeaderType="LEADER_THINGOL" ReligionType="RELIGION_MELIAN" />
+		<Row LeaderType="LEADER_DIOR" ReligionType="RELIGION_MELIAN" />
+		<Row LeaderType="LEADER_DENETHOR" ReligionType="RELIGION_YAVANNA" />
+		<Row LeaderType="LEADER_HURIN_THALION" ReligionType="RELIGION_ERU_ILUVATAR" />
+		<Row LeaderType="LEADER_DURIN" ReligionType="RELIGION_AULE" />
+		<Row LeaderType="LEADER_AZAGHAL" ReligionType="RELIGION_AULE" />
+		<Row LeaderType="LEADER_NAUGLADUR" ReligionType="RELIGION_AULE" />
+		<Row LeaderType="LEADER_FINARFIN" ReligionType="RELIGION_MANWE" />
+		<Row LeaderType="LEADER_INGWE" ReligionType="RELIGION_MANWE" />
+		<Row LeaderType="LEADER_OLWE" ReligionType="RELIGION_ULMO" />
+
+	</FavoredReligions>
+</GameData>

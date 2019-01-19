@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="LeaderFallback"/>
+	<m_PackageName text="LeaderFallbacks"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_FEANOR"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_FEANOR"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_MAEDHROS"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_MAEDHROS"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_CELEGORM"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_CELEGORM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_MAGLOR"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_MAGLOR"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_CARANTHIR"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_CARANTHIR"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_AMROD"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_AMROD"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_FINGOLFIN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_FINGOLFIN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_FINGON"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_FINGON"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_TURGON"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_TURGON"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_FINROD"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_FINROD"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_ORODRETH"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_ORODRETH"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_ANGROD"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_ANGROD"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_MORGOTH"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_MORGOTH"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_THINGOL"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_THINGOL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_DIOR"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_DIOR"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_DENETHOR"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_DENETHOR"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_HURIN_THALION"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_HURIN_THALION"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_DURIN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_DURIN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_AZAGHAL"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_AZAGHAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_NAUGLADUR"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_NAUGLADUR"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_FINARFIN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_FINARFIN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_INGWE"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_INGWE"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_OLWE"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_OLWE"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

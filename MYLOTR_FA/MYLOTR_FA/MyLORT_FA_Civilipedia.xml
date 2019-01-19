@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FEANOR_QUOTE"  Language="en_US">
+			<Text>Be he foe or friend, be he foul or clean, brood of Morgoth or bright Vala, Elda or Maia or Aftercomer, Man yet unborn upon Middle-earth, neither law, nor love, nor league of swords, dread nor danger, not Doom itself, shall defend him from Fëanor, and Fëanor's kin, whoso hideth or hoardeth, or in hand taketh, finding keepeth or afar casteth a Silmaril. This swear we all: death we will deal him ere Day's ending, woe unto world's end! Our word hear thou, Eru Allfather! To the everlasting Darkness doom us if our deed faileth. On the holy mountain hear in witness and our vow remember, Manwë and Varda!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MAEDHROS_QUOTE"  Language="en_US">
+			<Text>A king is he that can hold his own or else his title is vain. Thingol does but grant us lands where his power does not run. Indeed Doriath alone would be his realm this day but for the coming of the Noldor. Therefore in Doriath let him reign and be glad that he has the sons of Finwe for his neighbours not the Orcs of Morgoth that we found.</Text>	
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MAGLOR_QUOTE"  Language="en_US">
+			<Text>If Manwë and Varda themselves deny the fulfilment of an oath to which we named them in witness, is it not made void?</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FINGOLFIN_QUOTE"  Language="en_US">
+			<Text>"Thus he came alone to Angband’s gates, and he sounded his horn, and smote once moreu pon the brazen doors, and challenged Morgoth to come forth in single combat. And Morgoth Came."[NEWLINE]– About the final moments of Fingolfin</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FINGON_QUOTE"  Language="en_US">
+			<Text>The day has come! Behold, people of the Eldar and Fathers of Men, the day has come!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TURGON_QUOTE"  Language="en_US">
+			<Text>Not long now can Gondolin be hidden; and being discovered it must fall.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FINROD_QUOTE"  Language="en_US">
+			<Text>An oath I too shall swear, and must be free to fulfil it, and go into darkness. Nor shall anything of my realm endure that a son should inherit.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ANGROD_QUOTE"  Language="en_US">
+			<Text>Wherefore should we that endured the Grinding Ice bear the name of kinslayers and traitors?</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MORGOTH_QUOTE"  Language="en_US">
+			<Text>Behold! The Shadow of my thought shall lie upon them wherever they go, and my hate shall pursue them to the ends of the world. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THINGOL_QUOTE"  Language="en_US">
+			<Text>Bring to me in your hand a Silmaril from Morgoth's crown; and then, if she will, Lúthien may set her hand in yours.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HURIN_THALION_QUOTE"  Language="en_US">
+			<Text>Aure entuluva! Day shall come again!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AZAGHAL_QUOTE"  Language="en_US">
+			<Text>"Then the Dwarves raised up the body of Azaghâl and bore it away; and with slow steps they walked behind singing a dirge in deep voices, as it were a funeral pomp in their country, and gave no heed more to their foes; and none dared to stay them"[NEWLINE]– About he dead of Azaghâl</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_OLWE_QUOTE"  Language="en_US">
+			<Text>We renounce no friendship. But it may be the part of a friend to rebuke a friend's folly. But as for our white ships: those you gave us not. These are to us as are the gems of the Noldor: the work of our hearts, whose like we shall not make again.</Text>
+		</Row>
+		<!-- HOUSE OF FEANOR-->
+		<Row Tag="LOC_CIVINFO_HOUSE_FEANOR_LOCATION" Language="en_US">
+			<Text>East Beleriand</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_HOUSE_FEANOR_POPULATION" Language="en_US">
+			<Text>130,000 elves (75,000 Ñoldor and 55,000 Sindar)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_HOUSE_FEANOR_CAPITAL" Language="en_US">
+			<Text>Feanör was Mithrim[NEWLINE] Maedhros was Himring[NEWLINE] Celegorm was Himland[NEWLINE] Maglor was Maglor’s Gap[NEWLINE] Caranthir war Rerir[NEWLINE] Amrod was Estolad</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_HOUSE_FEANOR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The seven Sons of Fëanor, the great Ñoldorin Prince, led their people from Valinor to rule over kingdoms in the Northeast of Beleriand. After swearing an Oath to recover the Silmarils at any and all costs, they and their father led the Ñoldor from Valinor to Beleriand in pursuit of Morgoth, who stole Fëanor's greatest work, the Silmarils. Since Fëanor died in an early battle, his sons were the driving force behind the ensuing wars. Their heroism was great and they were mighty leaders and foes of Morgoth, but because of the Oath of Fëanor (which they all swore), their actions were ultimately turned to evil.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FEANOR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Fëanor was a Ñoldorin elf and one of the Elven kindred that departed from Valinor in the land of Aman, where they had lived with the Valar. He was born in Valinor, the only child of Finwë, High King of the Ñoldor, and Finwë's first wife Míriel Therindë. He was a craftsman, gem-smith, and warrior, the maker of the Silmarils and inventor of the Tengwar script. He was also the creator of the seven Palantíri. He was made the mightiest in all parts of body and mind; of beauty, understanding, skill, and subtlety, of all the Children of Ilúvatar. However, his personality was riddled with flaws, foremost among them selfishness and pride, that ultimately led to him causing his people untold anguish. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FEANOR_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Fëanor was possibly the strongest Elf that ever lived even surpassing Fingolfin and possibly Galadriel, he even contended with Gothmog (The greatest Balrog to have ever lived) on relative equal terms but was ultimately defeated and killed. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MAEDHROS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Maedhros was one of the princes of the Ñoldor, the eldest of the seven Sons of Fëanor and head of the House of Fëanor following the death of his father in Middle-earth. He was extraordinarily renowned for his skill both as a warrior and as a diplomat. For hundreds of years, he led his House against the forces of Morgoth but the Oath that he and his six brothers had sworn to recover the Silmarils constrained him and ultimately led to his death. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CELEGORM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Celegorm was the third son of Fëanor and Nerdanel, most closely associated with another brother, Curufin. Celegorm was a great huntsman, and a friend of the Vala Oromë. From Oromë he learned great skill of birds and beasts, and could understand a number of their languages. He had brought with him from Valinor the great hound Huan, a gift from Oromë. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MAGLOR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Maglor was the second son of Fëanor and Nerdanel. He was the greatest poet and minstrel of the Ñoldor and was said to have inherited more of his mother's gentler temperament. As with the other Sons of Fëanor, Maglor was bound by an oath to recover his father's Silmarils, which had been stolen by the Dark Lord Morgoth. Maglor took part in the Kinslaying at Alqualondë, and he made the lament Noldolantë, the Fall of the Noldor, in memory of the terrible event.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CARANTHIR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Caranthir, also known as Caranthir the Dark, was the fourth son of Fëanor and the harshest and the quickest to anger of his seven brothers. As with his brothers, Caranthir was bound by an oath to recover his father's Silmarils, which had been stolen by the Dark Lord Morgoth in Aman. This oath took the seven brothers to Middle-earth during the First Age where they established realms in exile, waged war against the armies of Morgoth, fought their own Elvish kind, and eventually brought ruin upon themselves.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMROD_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Amrod was the youngest son of Fëanor, along with his twin brother Amras. Of Fëanor's twin-sons, Amrod was the eldest. Before they left for Middle-earth, Nerdanel Amrod's mother begged Fëanor to leave her two youngest son with him or at least one of them. Fëanor refused her. Amrod and Amras died during the Third Kinslaying at the Havens of Sirion.</Text>
+		</Row>
+		<!-- HOUSE OF FINGOLFIN-->
+		<Row Tag="LOC_CIVINFO_HOUSE_FINGOLFIN_LOCATION" Language="en_US">
+			<Text>West Beleriand</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_HOUSE_FINGOLFIN_POPULATION" Language="en_US">
+			<Text>120,000 in Gondolin (50,000 Ñoldor and 70,000 Sindar) and 160,000 elves in other lands(100,000 Noldor and 60,000 Sindar)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_HOUSE_FINGOLFIN_CAPITAL" Language="en_US">
+			<Text>Fingolfin was Barad Eithel[NEWLINE] Fingon Dor Lomin and later Barad Eithel[NEWLINE] Turgon was Gondolin</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_HOUSE_FINGOLFIN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The House of Fingolfin was a royal House of the Ñoldor. The House was founded by Fingolfin son of Finwë during the Years of the Trees. Fingolfin married Anairë and had four children with her: Fingon, Turgon, Aredhel, and Argon. The family lived in Tirion until the Revolt of the Ñoldor in which all members of the House, with the exception of Anairë, followed the House of Fëanor into exile. After the Kinslaying at Alqualondë, Fingolfin led his  House to cross the Helcaraxë in which Turgon's wife Elenwë perished.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_HOUSE_FINGOLFIN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The Kingship of the Ñoldor passed over to Fingolfin after Fingon's rescue of Maedhros from Thangorodrim. Thus, the House held the northwestern lands of Beleriand: Nevrast, Dor-lómin, Hithlum, and Gondolin.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FINGOLFIN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Fingolfin was the second High King of the Ñoldor in Beleriand; the Ñoldor being one of the three branches of Elves. He was the eldest son of Finwë and Indis, younger brother of Findis, older brother of Irimë and Finarfin, and the younger half-brother of Fëanor. He founded the House of Fingolfin, which ruled the Ñoldor in Middle-earth. His wife was Anairë and his children were Fingon, Turgon, Aredhel, and Argon. Fingolfin was said to be the strongest, most steadfast, and most valiant of Finwë's sons.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FINGOLFIN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Fingolfin was one of if not the strongest Elf that ever lived, he even came close to if not completely matching his older half-brother Fëanor (who was possibly the strongest elf that ever lived), he even fought Melkor, a Valar, but ultimately was defeated and killed. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FINGON_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Fingon, the Valiant was an Ñoldorin Elf, the eldest son of Fingolfin, and older brother of Turgon, Aredhel, and Argon. Fingon followed his father and his people, though they were drawn more to the ruling of their own realms and adventurism rather than vengeance and the recovery of the Silmarils, as Fëanor and his sons sought. He fought in the first Kinslaying but only because he, seeing Elf fighting Elf, believed that the Teleri had been told to prevent the Ñoldor from leaving Aman by force by the Valar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FINGON_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>After Fëanor's abandonment of them, Fingon and his people were led by Fingolfin and crossed the perilous icy wastes of Helcaraxë. They arrived in Middle-earth at the beginning of the First Age and the Noldor witnessed the arising of the Sun. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FINGON_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>After the Dagor-nuin-Giliath and the death of Fëanor, Maedhros, Fingon's cousin and friend, was taken and hung by the wrist upon Thangorodrim. Fingon marched to Thangorodrim and with the help of Thorondor, Lord of the Eagles, found Maedhros. Maedhros begged Fingon to kill him, but Fingon instead severed Maedhros's hand by the wrist, and brought him back to the Noldorin camp. It was this act of bravery and compassion that resolved the dispute as to whose house would rule over the Ñoldor in Middle-earth, for Maedhros renounced his claim to the High Kingship of the Ñoldor, instead ceding it to House of Fingolfin.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FINGON_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Fingon became High King when Fingolfin died dueling with Morgoth after the Dagor Bragollach. Fingon's final battle was the Nirnaeth Arnoediad. Fingon led the attack on Angband, and the fury of his warriors nearly won the day. Unfortunately, due to Ulfang's treachery, Maedhros did not arrive until three days after he was expected. This resulted in Morgoth releasing his Balrogs and Glaurung the dragon on the already weakened Ñoldor force. When Maedhros finally arrived, hope was reborn for Fingon's army; however, Ulfang's treachery again took effect, causing Maedhros to withdraw. Fingon was then surrounded and his guards killed. He dueled Gothmog, lord of Balrogs, but was struck from behind by another.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TURGON_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Turgon was a Ñoldorin Elf of Gondolin, second son of Fingolfin, brother of Fingon, Aredhel, Argon, and father of Idril. In Middle-earth, Turgon was the King of Gondolin and the High King of the Ñoldor. For hundreds of years of the First Age, Turgon remained successfully hidden from the eyes and ears of Morgoth until a betrayal from within caused his downfall. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TURGON_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>In the year 50 of the First Age, Turgon was instructed by Ulmo to prepare a secret kingdom and was shown the hidden valley of Tumladen in the Encircling Mountains. After 52 years of secret labor, Turgon led his people into Gondolin, where he ruled for over 500 years, largely ignoring the events of the Wars of Beleriand.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TURGON_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Turgon joined the Union of Maedhros with a ten thousand strong army and fought alongside his brother Fingon in the Nirnaeth Arnoediad, but the sacrifice of Húrin, Huor, and the Third House of the Edain enabled him to retreat without revealing the location of Gondolin.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TURGON_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>The full malice of Morgoth was directed toward Turgon, last of the House of Finwë to control a realm in Middle-earth. At last, aided by the treachery of Maeglin, Morgoth discovered the location of Gondolin, and Turgon was slain defending the city.</Text>
+		</Row>
+		<!-- HOUSE OF FINARFIN-->
+		<Row Tag="LOC_CIVINFO_HOUSE_FINARFIN_LOCATION" Language="en_US">
+			<Text>West Beleriand</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_HOUSE_FINARFIN_POPULATION" Language="en_US">
+			<Text>200,000 elves(75,000 Ñoldor and 125,000 Sindar)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_HOUSE_FINARFIN_CAPITAL" Language="en_US">
+			<Text>Finrod was Nargothrond[NEWLINE] Orodreth was Tol Sirion and later Nargothrond[NEWLINE] Angrod was Dorthonion</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_HOUSE_FINARFIN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The House of Finarfin was a noble house of Ñoldorin Elves. It was founded by Finarfin, son of Finwë, after his marriage to Eärwen daughter of Olwë in YT 1280. The couple had four children: Finrod, Aegnor, Angrod, and Galadriel.During the Revolt of the Ñoldor, Finarfin and household followed the House of Fëanor into exile. The Kinslaying at Alqualondë made Finarfin reluctant to journey further. At last, at the proclamation of the Doom of Mandos, Finarfin repented and turned back to Aman where he sued for pardon to the Valar. He returned, but his children did not come, thus the foundation of the House of Finrod in Middle-earth. The House is recognizable by the golden hair of its members due to their half-Vanyarin heritage from Finarfin's mother, Indis. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FINROD_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Finrod, also known fully as Finrod Felagund, was a Ñoldorin Elf who was born in Aman. He was the eldest son of Finarfin and Eärwen, and the brother of Galadriel, Angrod and Aegnor.  Finrod was one of the noblest elves of the House of Finarfin and a friend of Men. His nobility and death saving Beren and his opposition to the Oath of Fëanor allowed for his return to life in Valinor, making him the first Elf to be reincarnated in the Undying Lands before the end of First Age. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FINROD_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Finrod was friendly with Turgon and the House of Fingolfin. He opposed Fëanor and the Oath when he sought to return to Middle-earth to recover the Silmarils from Morgoth, but chose not to be parted with his friends and so he followed his father and his House and the House of Fingolfin. Finrod did not fight in the Kinslaying of Alqualondë nor was he aware of it as he continued the transit through Araman. While marching up the coast, the host encountered a figure on a rock and heard the Prophecy of the North. Afterwards, Finarfin and many of his followers departed and returned to Tirion, but Finrod chose to continue onto Middle-earth with the host of Fingolfin.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FINROD_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Finrod discovered the system of caves beneath the Taur-en-Faroth, protected by the Nagrod and the power of Ulmo, and here went on to found his own kingdom and become Lord of Nargothrond. While hunting in the lands of Thargelion in East Beleriand, Finrod was first of the Ñoldor to come across Men. He stayed with them long, learning their language and teaching them Sindarin. He also intervened on behalf of the Laiquendi of Ossiriand, who feared Men would destroy their home, and he received the permission of King Thingol, who held rule over all Beleriand, to guide the Men to Estolad.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FINROD_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Years after the Dagor Bragollach, Barahir's son Beren came to Nargothrond seeking help, and Finrod went with him on the Quest of the Silmaril to repay his debt, laying down his kingship. Though disguised by the arts of Finrod, the twelve were captured by Sauron and taken to Tol-in-Gaurhoth, formerly Minas Tirith, the castle Felagund himself had built. Finrod and Sauron battled with songs of power but despite a great display of skill and power by the Elven prince, Sauron eventually caught him in a devious trap and prevailed. Sauron imprisoned them, seeking to learn their errand and identities, sending a werewolf to devour them one by one until they revealed their secret, yet none did. Sauron however perceived that Finrod was a High Elven Lord of great power, and purposed to save him for last. Eventually, when the wolf came for Beren, Finrod burst his chains and killed the wolf barehanded but was mortally wounded himself.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ORODRETH_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Orodreth was a Ñoldorin Elf of the First Age who was the second ruler of the underground city of Nargothrond in western Beleriand. After the Doom of Mandos was announced in Araman, he and the rest of the Ñoldor left for Middle-earth. Even as his grandfather (father) Finarfin and many of his House turned back to Valinor, Orodreth stayed with his uncle Fingolfin and his host and pursued his journey to Middle-earth.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ORODRETH_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Orodreth once held the isle of Minas Tirith in the vale of Sirion until Sauron overran the isle and turned it into Tol-in-Gaurhoth. Orodreth then fled south to Nargothrond. When Beren came to the Kingdom of Nargothrond, King Finrod went with him on his quest for the Silmaril. However, Celegorm and Curufin, the Sons of Fëanor, were also at Nargothrond, and forced Finrod to lay down his crown. Orodreth took it, ruling as regent, but the Sons of Fëanor held the real power. When news came that Finrod had been killed, the Sons of Fëanor were expelled from Nargothrond and Orodreth became its next king.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ORODRETH_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Túrin Turambar convinced Orodreth to build the Bridge of Nargothrond and abandon their secretive method of warfare in favor of open warfare. King Orodreth and Túrin marched out to meet the hosts of Morgoth and the Dragon Glaurung at Tumhalad and Orodreth died fighting there, and his realm was subsequently conquered.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ANGROD_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Angrod was a Ñoldorin Elf, the second son of Finarfin and lord of the Ñoldor of Dorthonion. He was the father of Orodreth and subsequently grandfather of the famed Gil-galad. In FA 6 he was received in Doriath by King Thingol wanting his permission to establish realms in Beleriand outside Thingol's realm. Together with Aegnor he held the northern slopes of the highlands of Dorthonion against Morgoth. They were both killed in the Dagor Bragollach. </Text>
+		</Row>
+		<!--  MORGOTH-->
+		<Row Tag="LOC_CIVINFO_MORGOTH_LOCATION" Language="en_US">
+			<Text>North Beleriand</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_MORGOTH_POPULATION" Language="en_US">
+			<Text>1,500,000 orcs and 1,000 balrogs and  100 dragons</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_MORGOTH_CAPITAL" Language="en_US">
+			<Text>Angband, before Utumno</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MORGOTH_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Melkor later known predominantly as Morgoth , was the first Dark Lord, and the primordial source of evil in Eä. Originally the most powerful of the Ainur created by Eru Iluvatar, Melkor rebelled against his creator out of pride and sought to corrupt Arda. After committing many evils in the First Age, such as the theft of the Silmarils, which resulted in his name Morgoth, and the destruction of the Two Lamps and the Two Trees of Valinor, Morgoth was defeated by the Host of Valinor in the War of Wrath and cast out of Arda into the Void, where he now waits. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MORGOTH_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Melkor later known predominantly as Morgoth , was the first Dark Lord, and the primordial source of evil in Eä. Originally the most powerful of the Ainur created by Eru Iluvatar, Melkor rebelled against his creator out of pride and sought to corrupt Arda. After committing many evils in the First Age, such as the theft of the Silmarils, which resulted in his name Morgoth, and the destruction of the Two Lamps and the Two Trees of Valinor, Morgoth was defeated by the Host of Valinor in the War of Wrath and cast out of Arda into the Void, where he now waits. </Text>
+		</Row>
+		<!-- DORIATH-->
+		<Row Tag="LOC_CIVINFO_DORIATH_LOCATION" Language="en_US">
+			<Text>Central Beleriand</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_DORIATH_POPULATION" Language="en_US">
+			<Text>450,000 Sindar Elves</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_DORIATH_CAPITAL" Language="en_US">
+			<Text>Menegroth</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_DORIATH_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Doriath was an Elven realm, the land of the Sindar that existed during the latter-half of the Years of the Trees and most of the First Age of the Sun. For thousands of years it was separate from the outside world under the rule of King Thingol and the protection of his wife Melian the Maia, until it was drawn into the war against Morgoth and the doom that lay on the Ñoldor, because of the Oath of Fëanor. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THINGOL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Elu Thingol was an Elf of the Teleri during the First Age. His brother was Olwë, who became the Lord of Alqualondë, Lord of Tol Eressëa, and High King of the Teleri of Aman. He was a good friend of Finwë, the first High King of the Ñoldor during the times before the elves reached Aman. He was the founder and first King of the northern Elven Kingdom of Doriath and was respected by all the Sindar of the Beleriand, who considered him to be the High King of the Sindar and the Lord of Beleriand. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DIOR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Dior, also called Dior Eluchîl, was the son of the renowned Man Beren the One-handed of the House of Bëor (First House of the Edain) and the legendary Elven-princess Lúthien of Doriath. He thereafter became the King of Doriath as he was heir to the throne of King Thingol of Doriath and also became the High King of the Sindar. Dior the Fair was one of the Half-elven for his father was of the race of Men and his mother was Elven. Dior and Nimloth were slain by the Sons of Fëanor during the Sack of Menegroth to recapture the Silmaril he inherited from his parents. Celegorm, Curufin, and Caranthir were also killed. Dior's sons Eluréd and Elurín were captured during the assault and left to die in the woods of Doriath by the servants of Celegorm. </Text>
+		</Row>
+		<!-- OSSIRIAND-->
+		<Row Tag="LOC_CIVINFO_OSSIRIAND_LOCATION" Language="en_US">
+			<Text>East Beleriand</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_OSSIRIAND_POPULATION" Language="en_US">
+			<Text>70,000 Lainquedi Elves</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_OSSIRIAND_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Ossiriand was a green and forested land, and it was not populated by the Sindar. In the early First Age before the rise of the Moon, a part of the Telerin elven people called Nandor entered Ossiriand under their leader King Denethor, and were given permission by Thingol to settle the lands. After them the land was often renamed Lindon, for The Singers, after the old clan-name of the Telerin which the Nandor still used in their tongue. They became known as the Laiquendi, or Green-Elves. The Elves of Ossiriand participated in the first battle of the Wars of Beleriand. After their leader Denethor was killed in an orc-raid they chose no more leaders, and many of them moved to Doriath.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DENETHOR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Denethor was the son of the Nandor Elf leader Lenwë, who lived during the Years of the Trees. Hearing of the power of Thingol, Denethor led many of his people over the Blue Mountains to Beleriand. They settled in Ossiriand, in the east of Beleriand, and Denethor became their king. They were called the Laiquendi, or Green-elves. Some time later after his return from Aman, Morgoth loosed an army on Beleriand beginning the First Battle. The lightly-armed Laiquendi were driven back to the great hill of Amon Ereb, where Denethor was slain. The Laiquendi became a reclusive people, seldom taking up arms, and never again naming a king.</Text>
+		</Row>
+		<!-- EDAIN-->
+		<Row Tag="LOC_CIVINFO_EDAIN_LOCATION" Language="en_US">
+			<Text>Beleriand</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_EDAIN_POPULATION" Language="en_US">
+			<Text>150,000 three tribes, 30,000 at the end of First Age</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EDAIN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Edain also known as Atanatári, Fathers of Men, and Three Houses of Men, are a group of Men that came to the Beleriand from the Far East during the First Age. Came into Beleriand where they befriended the elves, entered their service, received land and title for that service, and fought valiantly in the Battles of Beleriand. Some, however, remained in Estolad or fled south or east from the power of Dark Lord Morgoth, and passed from history until the Third Age.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_EDAIN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>They were divided into three tribes, or "Houses":[NEWLINE] The House of Bëor in Estolad and later settled in the lands of Dorthonion in Ladros. They remained loyal to the House of Finarfin.[NEWLINE]The Second House, later known as the Haladin or the House of Haleth: They settle in the Forest of Brethil, part of Doriath. They mostly kept out of the wars.[NEWLINE]The House of Marach, later best known as the House of Hador: They were a very numerous and war-like tribe They first settled in Estolad, then in the southern parts of Ered Wethrin (Mountains of Shadow), and then later in Dor-lómin. They were loyal to Fingolfin.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HURIN_THALION_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Húrin Thalion, of the House of Marach or House of Hador., was a hero of Men during the First Age. He was the father of the tragic Túrin Turambar. He was the greatest warrior of Men in the First Age. He ruled over the Hadorian fief of Dor-lómin in Hithlum. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HURIN_THALION_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>In FA 473, in the Nírnaeth Arnoediad, Húrin fought alongside Huor and the Sons of Hador. When the battle was lost, Húrin and Huor gathered all the remaining men of the House of Hador and they took a stand fighting off the Orcs, allowing Turgon to escape. Step by step, the army of Morgoth pushed them back. They stepped back until the river Rivil was in front of them, there they did not take one-step back. In the end, Húrin stood there alone, there he threw his sword and shield on the ground and he took a grand battle-axe of an Orc captain. He waded alone into Gothmog's bodyguard of Trolls, and with every one he slew he yelled with all his voice: "Aure entuluva!" ("Day will come again!") This battle cry was heard seventy times. Húrin fought with the battle axe until the axe itself withered away from the caustic blood of the trolls he had been slaying. He was grappled by the orcs and taken hostage, even though he hewed their limbs off as they grabbed him. Húrin was brought captive to Morgoth, and despite horrific torture, he refused to reveal the location of Gondolin. Due to his defiance, Morgoth cursed him and his family to misery and hopelessness. </Text>
+		</Row>
+		<!-- DWARVES LEADERS-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DURIN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>King Durin I, known also as Durin the Deathless, of Khazad-dûm  was the oldest of the Seven Fathers of the Dwarves, first created by Aulë the Vala. Durin was set to sleep alone beneath Mount Gundabad in Middle-earth until the Elves awoke. Upon his awakening at Mount Gundabad in the Years of the Trees, he traveled until he came upon the Mirrormere, the lake that the Dwarves call Kheled-zâram. He created there a great city within the Misty Mountains. This was Khazad-dûm, known by Elves as Moria. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AZAGHAL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Azaghâl was the King of the Broadbeam Dwarves, one of the seven Dwarf clans, and Lord of the Dwarven realm of Belegost in the Blue Mountains during the First Age. He was slain by the Dragon Glaurung after severely wounding him during the Nirnaeth Arnoediad. After his death, his kin bore him away from the battlefield ignoring the rest of their enemies and singing a frightening dirge that allowed them to leave without further incident.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NAUGLADUR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Naugladur was the Lord of Nogrod; the King of the Wicked dwarves of Nogrod. Naugladur hired Orc mercenaries to aid in the assault on Doriath. His Dwarves were more prone to evil to gain their own ends, and exclusively impelled by greed; that Doriath was laid waste by mercenary Orcs under Dwarvish paymasters. He was slain in the Battle of Sarn Athrad.</Text>
+		</Row>
+		<!-- ELVES OF AMAN-->
+		<Row Tag="LOC_CIVINFO_AMAN_LOCATION" Language="en_US">
+			<Text>Aman</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AMAN_POPULATION" Language="en_US">
+			<Text>545,000 elfs (75,000 Noldor 200,000 Vanyar and  270,000 Teleri)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AMAN_CAPITAL" Language="en_US">
+			<Text>Finarfin was Tirion, Ingwë was Taniquetil and Olwë was Alqualonde</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AMAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Aman, across the great ocean Belegaer. It was the home of the Valar, and three kindreds of Elves: the Vanyar, some of the Ñoldor, and some of the Teleri. The island of Tol Eressëa lay just off the eastern shore. Seeking to isolate themselves, they raised a great mountain fence, called the Pelóri, on the eastern coast, and set the Enchanted Isles in the ocean to prevent travellers by sea from reaching Aman.  </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FINARFIN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Finarfin was the youngest child and third son of Finwë, High-King of the Noldor in Aman, with his second wife Indis of the Vanyar. After the death of Finwë, when Fëanor gave his wrathful speech before the Ñoldor of Tirion, Finarfin was there, and listening to the hasty words, he tried in vain to persuade the Ñoldor to pause and not to be rash. Nevertheless he departed with his brothers Fëanor and Fingolfin for Middle-earth, but turned back when Mandos pronounced the Doom of the Ñoldor. Finarfin and his people were pardoned by the Valar and then he became King of the residual Ñoldor in Aman and presumably still rules from Tirion on Túna.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_INGWE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Ingwë was a Vanyar Elf, the King of the Vanyar and the High King of the Elves. Ingwë became the first of the Vanyar to travel to Valinor with Oromë. Loving its beauty and bliss, he returned to his people and urged them to undertake a journey to Aman. He and his kin were fascinated with the Valar, and they decided not to return to Middle-earth. They stayed and made Ingwë their king. Ingwë was reckoned as High King of all the Eldalië, the Elves of the Great Journey, and because of this he is called Ingwë Ingweron; the "Chief of the Chieftains". He lived in Taniquetil, ruling from beneath Manwë High King of Arda. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_OLWE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Olwë was an Elf of the Teleri of Aman. When he and his kin reached Aman, they chose to remain there in both Tol Eressëa and Alqualondë apart from the rest of the Elves of Aman. He became both Lord of Alqualondë and King of the Teleri. The cruel slaying at the havens continued to haunt Olwë and his people for many years to come. Towards the end of the First Age when the Valar were preparing for the final assault on Morgoth, the Teleri of Olwë agreed only to sail the ships for very few of them were willing to go to war.</Text>
+		</Row>
+		<!-- CITY STATES-->
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BEOR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The House of Bëor was the oldest of the Three Houses of Men that had allied with the Elves in the First Age. Furthermore, the majority of faithful were those of Bëorian descent. This was because the majority of the Men of Bëor had settled in the western part of Númenor, which later became the area controlled by the faithful Lords of Andúnië. Traits of the House of Bëor were passed down to the Dúnedain of the Middle-earth and can be seen in Aragorn II Elessar's physical description. Bëor led his people to Estolad, the encampment, in the realm of Amrod and Amras, sons of Fëanor. Later, Boromir of House Beör was granted the land of Ladros in Dorthonion as a fief under the Elven-lords Angrod and Aegnor, the younger sons of Finarfin.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_HALADIN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The House of Haleth (or the "Haladin") was the second of the Three Houses of Men.  They were a reclusive folk, dark-haired but smaller in stature than the people of Bëor. They kept separate from the other Edain, and spoke a different language. Impressed by their virtue Caranthir offered them his lands to live in protected, but Haleth refused, and later got permission to settle in the forest of Brethil, part of Doriath but outside the Girdle of Melian. They mostly kept out of the wars.  </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_MARACH_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The House of Marach or House of Hador was the Third House of the Edain of the First Age. Marach was an Edain and the first lord, chieftain of his people who were numerous compared to the other houses of the Edain. The People of Marach were great in number, and Bëor described them as warlike, marching in ordered companies; and the Green Elves did not hinder their arrival in Ossiriand.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BOR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Bór was a leader of Easterling Men of the First Age. Bór was welcomed by Maedhros, who gave him and his followers land north of the March of Maedhros, and south of it. Bór and his sons swore allegiance to Maedhros, and remained faithful, though he was told by Morgoth to betray the banner of Caranthir. He and his sons remained faithful to the Noldor unlike Ulfang's followers. All of them were wiped out during the Nirnaeth Arnoediad.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ULFANG_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Ulfang, also known as Ulfang the Black, was the Easterling chieftain of the First Age who followed Caranthir to the Nirnaeth Arnoediad, but betrayed the Sons of Fëanor and gave Morgoth victory. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BELEGOST_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Belegost was one of the seven great kingdoms of the Dwarves. Amongst the Dwarves of Belegost were the finest smiths and stone-carvers in Middle-earth. In their armourer's halls they made many bright weapons and were the first people to forge chain-mail. The Dwarves of Belegost traded with the Sindar Elves of Beleriand and supplied them with weapons of incomparably tempered steel; furthermore these Dwarves carved the stone chambers of Menegroth. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_NOGROD_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The realm of Nogrod was dolven and founded not long after the awakening of the Dwarves. They soon met the Elves of Beleriand and established a trading relationship with them. For many centuries, the trade relations grew strong and the Dwarves of Nogrod were employed by Thingol, the King of Doriath and helped in the delving of the caves of Menegroth, and creation of treasuries and weapons. The dwarves trafficked to and from the Beleriand and their sister city of Belegost on a long road that ran from Belegost to Nogrod into the Beleriand, and finally to Menegroth. While initially friendly to the Elves of Beleriand, the Dwarves of Nogrod attempted to kill Thingol of Doriath in his treasury, after having crafted the treasure Nauglamír for him (leaving him for dead) but were driven out. Thingold would later be killed during a wolf hunt, after treacherous elves helped returning dwarves enter past the Girdle of Melian.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_FALAS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Falas was an area on the coast of the West Beleriand, south of Nevrast. The Sindarin Elves ruled by Círdan dwelt here, and built the havens of Brithombar and Eglarest.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_EOL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Nan Elmoth was held to be part of the kingdom of Doriath. Eöl, the Dark Elf paid Thingol with the sword Anglachel to dwell there. He became an Elf of amazing skills in blacksmith and forged a black, shining metal called Galvorn. Eöl forged a suit of armor out of Galvorn to which he wore and kept. He lived in Nan Elmoth, a forest in Beleriand to which he appointed himself Lord and built a home there.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PETTYDWARVES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Petty-dwarves were a diminutive race of dwarves that lived in the Beleriand in Middle-earth during the First Age. They differed from normal dwarves in various ways: they were smaller, far more unsociable, and they freely gave away their names. The Petty-dwarves were dwarves of several houses, which had been exiled for reasons unknown in very ancient times during the Peace of Arda. They were the first to cross the Blue Mountains in the First Age, and established strongholds in Beleriand before the building of Nogrod and Belegost in the Blue Mountains, and before the elves arrived. By the time of the War of the Jewels, after the Return of the Ñoldor, the Petty-dwarves had nearly died out. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BALAR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Isle of Balar was an island located about seventy-five miles off the southern coast of Beleriand in the great Bay of Balar, known for being a refuge and gathering point of Eldar and Edain during the First Age of Middle-earth. When the Falas was destroyed, the Isle of Balar became a refugee camp for the survivors of the Havens of the Falas which were headed by Círdan. The camps on Balar maintained close contact with the refugee camp in Arvernien headed by the half-elf, Eärendil. It was on Balar that Círdan helped Eärendil build the ship Vingilotë, with which later he sought for Valinor, to ask for the pardon of the Valar and help against Morgoth. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SIRION_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Havens of Sirion in Arvernien were the refuge for the Eldar and Edain of Beleriand who survived the Nírnaeth Arnoediad and the destruction of Menegroth. The Havens of Sirion housed the surviving Sindar of Doriath some of the Ñoldor from Nargothrond and Gondolin, and the few surviving Men of the Three Houses of the Edain. The first rulers of this region, known as Arvernien, were Tuor and Idril. Later their son, the Half-elven Eärendil, married Dior's half-elven daughter, Elwing, who had fled the Fall of Doriath with the Silmaril of Beren and Lúthien. Their sons Elros and Elrond were born in Arvernien.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BRODDA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Brodda was a lord of the Easterlings. He usurped the lordship of Dor-lómin after Húrin was captured, and Morwen had since left the area. He married Aerin sometime after that. A little while before the coming of 499, the First Age, Brodda was involved in a battle that took place inside the hall of his own grandious home. He was ultimately slain by Túrin in his rage. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_LORGAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Lorgan was the chief of the Easterlings in Hithlum after the Nirnaeth Arnoediad, with claims on Dor-Lómin as well. Lorgan was cruel slavemaster holding many Men and perhaps Elves in thralldom. Forcibly taking him away from his Elf protectors, he enslaved Tuor for three years until he managed to escape out of the north. Afterwards, Lorgan put a price on his head.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_HADOR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The House of Marach or House of Hador was the Third House of the Edain of the First Age. Marach was an Edain and the first lord, chieftain of his people who were numerous compared to the other houses of the Edain. The People of Marach were great in number, and Bëor described them as warlike, marching in ordered companies; and the Green Elves did not hinder their arrival in Ossiriand. Hador became the first Lord of Dor-lómin and was accounted mighty even among the Eldar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BEOR_LADROS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The House of Bëor was the oldest of the Three Houses of Men that had allied with the Elves in the First Age. Furthermore, the majority of faithful were those of Bëorian descent. This was because the majority of the Men of Bëor had settled in the western part of Númenor, which later became the area controlled by the faithful Lords of Andúnië. Traits of the House of Bëor were passed down to the Dúnedain of the Middle-earth and can be seen in Aragorn II Elessar's physical description. Bëor led his people to Estolad, the encampment, in the realm of Amrod and Amras, sons of Fëanor. Later, Boromir of House Beör was granted the land of Ladros in Dorthonion as a fief under the Elven-lords Angrod and Aegnor, the younger sons of Finarfin.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_DOR_CUARTHOL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Dor-Cúarthol (referring to the Two Captains, Beleg and Túrin in Sindarin 'Land of Bow and Helm'.), was a center of resistance against the forces of Morgoth in the Beleriand during latter part of the First Age. The realm was established after Beleg agreed to join his good friend in opposition to the orcs infesting the area. This resulted in an alliance which protected an area that occupied a land between the river Teiglin and Talath Dirnen. It was during this time that Túrin went by the name Gorthol. For almost a year, the alliance held off the Orcs of Morgoth until the treachery of Mîm the dwarf brought it to a bloody end. Túrin's location was eventually discovered and orcs slew the outlaws, covering the hilltop with real blood putting an end to the Dor-Cúarthol.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

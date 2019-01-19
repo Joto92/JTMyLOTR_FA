@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!--First AI line-->
+		<!-- OPTIONAL-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_FEANOR_ANY" Language="en_US">
+			<Text>I am Fëanor, first son of Finwë and the High King of the Ñoldor, who are you?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MAEDHROS_ANY" Language="en_US">
+			<Text>I am Maedhros, first son of Fëanor and Lord of Himring , who are you?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CELEGORM_ANY" Language="en_US">
+			<Text>We are Celegorm and Curufin, sons of Fëanor and Lords of Himlad, who are you?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MAGLOR_ANY" Language="en_US">
+			<Text>I am Maglor, second son of Fëanor and Lord of Maglor's Gap, who are you?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CARANTHIR_ANY" Language="en_US">
+			<Text>I am Caranthir, son of Fëanor and Lord of Thargelion, who are you?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_AMROD_ANY" Language="en_US">
+			<Text>We are Amrod and Amras, twin sons of Fëanor and Lords of Estolad, who are you?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_FINGOLFIN_ANY" Language="en_US">
+			<Text>I am Fingolfin, son of Finwë and the King of Hithlum, who are you?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_FINGON_ANY" Language="en_US">
+			<Text>I am Fingon, first son of Fingolfin, who are you?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_TURGON_ANY" Language="en_US">
+			<Text>I am Turgon, son of Fingolfin and King of Gondolin, who are you?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_FINROD_ANY" Language="en_US">
+			<Text>I am Finrod Felagund, first son of Finarfin and King of Nargothrond, who are you?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_ORODRETH_ANY" Language="en_US">
+			<Text>I am Orodreth, son of Angrod and Lord of Minas Tirith, who are you?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_ANGROD_ANY" Language="en_US">
+			<Text>We are Angrod and Aegnor, sons of Finarfin and Lords of Dorthonion , who are you?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_THINGOL_ANY" Language="en_US">
+			<Text>I am Elu Thingol King of Doriath, High King of the Sindar and the Lord of Beleriand, who are you?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_DIOR_ANY" Language="en_US">
+			<Text>I am Elu Thingol King of Doriath and High King of the Sindar, who are you?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_DENETHOR_ANY" Language="en_US">
+			<Text>I am Denethor King of the Laiquendi, who are you?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_HURIN_THALION_ANY" Language="en_US">
+			<Text>I am Húrin Thalion the Lord of Dor-lómin, who are you?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_AZAGHAL_ANY" Language="en_US">
+			<Text>I am Azaghâl King of the Broadbeam Dwarves of Belegost, who are you?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_NAUGLADUR_ANY" Language="en_US">
+			<Text>I am Naugladur the Lord of Nogrod, who are you?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_FINARFIN_ANY" Language="en_US">
+			<Text>I am Finarfin High King of the Ñoldor in Valinor, who are you?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_INGWE_ANY" Language="en_US">
+			<Text>I am Ingwë King of the Vanyar and High King of the Elves, who are you?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_OLWE_ANY" Language="en_US">
+			<Text>I am Olwë King of the Falmari, Lord of Tol Eressëa and Alqualondë, who are you?</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<!--MUST FILL-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_FEANOR_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MAEDHROS_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CELEGORM_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MAGLOR_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CARANTHIR_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_AMROD_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_FINGOLFIN_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_TURGON_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_FINROD_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ORODRETH_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ANGROD_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_THINGOL_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_DIOR_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_DENETHOR_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_HURIN_THALION_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_AZAGHAL_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_NAUGLADUR_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_FINARFIN_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_INGWE_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_OLWE_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<!-- MUST FILL-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_FEANOR_ANY" Language="en_US">
+			<Text>I was hoping you would have left sooner.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MAEDHROS_ANY" Language="en_US">
+			<Text>I was hoping you would have left sooner.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CELEGORM_ANY" Language="en_US">
+			<Text>I was hoping you would have left sooner.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MAGLOR_ANY" Language="en_US">
+			<Text>I was hoping you would have left sooner.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CARANTHIR_ANY" Language="en_US">
+			<Text>I was hoping you would have left sooner.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_AMROD_ANY" Language="en_US">
+			<Text>I was hoping you would have left sooner.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_FINGOLFIN_ANY" Language="en_US">
+			<Text>I was hoping you would have left sooner.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_FINGON_ANY" Language="en_US">
+			<Text>I was hoping you would have left sooner.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_TURGON_ANY" Language="en_US">
+			<Text>I was hoping you would have left sooner.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_FINROD_ANY" Language="en_US">
+			<Text>I was hoping you would have left sooner.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ORODRETH_ANY" Language="en_US">
+			<Text>I was hoping you would have left sooner.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ANGROD_ANY" Language="en_US">
+			<Text>I was hoping you would have left sooner.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_THINGOL_ANY" Language="en_US">
+			<Text>I was hoping you would have left sooner.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_DIOR_ANY" Language="en_US">
+			<Text>I was hoping you would have left sooner.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_DENETHOR_ANY" Language="en_US">
+			<Text>I was hoping you would have left sooner.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_HURIN_THALION_ANY" Language="en_US">
+			<Text>I was hoping you would have left sooner.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_AZAGHAL_ANY" Language="en_US">
+			<Text>I was hoping you would have left sooner.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_NAUGLADUR_ANY" Language="en_US">
+			<Text>I was hoping you would have left sooner.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_FINARFIN_ANY" Language="en_US">
+			<Text>I was hoping you would have left sooner.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_INGWE_ANY" Language="en_US">
+			<Text>I was hoping you would have left sooner.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_OLWE_ANY" Language="en_US">
+			<Text>I was hoping you would have left sooner.</Text>
+		</Row>
+		<!-- Agenda -->
+		<!-- Kudo-->
+		<!-- MUST FILL-->
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_FEANOR_REASON_ANY" Language="en_US">
+			<Text>(You have no Luxuries he wants)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_MAEDHROS_REASON_ANY" Language="en_US">
+			<Text>(You have the same goverment.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CELEGORM_REASON_ANY" Language="en_US">
+			<Text>(You have no Luxuries he wants)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_MAGLOR_REASON_ANY" Language="en_US">
+			<Text>(Your Civilization is cultured)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CARANTHIR_REASON_ANY" Language="en_US">
+			<Text>Your treasury is filling up quite nicely. It's always nice to have such strong income, isn't it?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_AMROD_REASON_ANY" Language="en_US">
+			<Text>(You have the same goverment.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_FINGOLFIN_REASON_ANY" Language="en_US">
+			<Text>(You have not backstabbed a friend or declared a surprise war)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_FINGON_REASON_ANY" Language="en_US">
+			<Text>(You have focus on [ICON_Science] Science)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_TURGON_REASON_ANY" Language="en_US">
+			<Text>(You are not a threat to his people)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_FINROD_REASON_ANY" Language="en_US">
+			<Text>(They are very pleased to see you protecting many city states)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ORODRETH_REASON_ANY" Language="en_US">
+			<Text>(You are against the barbarians)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANGROD_REASON_ANY" Language="en_US">
+			<Text>We have only been given one earth, and I am glad that I am not the only one to respect that. (You are respecting the environment)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_MORGOTH_REASON_ANY" Language="en_US">
+			<Text>(You have fought honorably and not capitulated in a peace deal)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_THINGOL_REASON_ANY" Language="en_US">
+			<Text>(You have kept the peace on his home continent)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_DIOR_REASON_ANY" Language="en_US">
+			<Text>We have only been given one earth, and I am glad that I am not the only one to respect that. (You are respecting the environment)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_DENETHOR_REASON_ANY" Language="en_US">
+			<Text>We have only been given one earth, and I am glad that I am not the only one to respect that. (You are respecting the environment)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_HURIN_THALION_REASON_ANY" Language="en_US">
+			<Text>(You are strong in Science and Culture)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_DURIN_REASON_ANY" Language="en_US">
+			<Text>(No amenazas con construir más maravillas).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_AZAGHAL_REASON_ANY" Language="en_US">
+			<Text>You are a good friend and ally.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_NAUGLADUR_REASON_ANY" Language="en_US">
+			<Text>(You have declared a surprise war)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_FINARFIN_REASON_ANY" Language="en_US">
+			<Text>(You have maintain the peace)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_INGWE_REASON_ANY" Language="en_US">
+			<Text>(You have focus on faith)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_OLWE_REASON_ANY" Language="en_US">
+			<Text>(You have kept the peace on his home continent)</Text>
+		</Row>
+		<!-- Warning-->
+		<!-- MUST FILL-->
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_FEANOR_REASON_ANY" Language="en_US">
+			<Text>(You have a Luxury he wants.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_MAEDHROS_REASON_ANY" Language="en_US">
+			<Text>(You don't have the same goverment.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_CELEGORM_REASON_ANY" Language="en_US">
+			<Text>(You have a Luxury he wants.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_MAGLOR_REASON_ANY" Language="en_US">
+			<Text>(Your Civilization is not cultured)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_CARANTHIR_REASON_ANY" Language="en_US">
+			<Text>Your empire is headed toward bankruptcy.  How can you survive with debt piling up?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_AMROD_REASON_ANY" Language="en_US">
+			<Text>(You don't have the same goverment.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_FINGOLFIN_REASON_ANY" Language="en_US">
+			<Text>(You have backstabbed a friend or declared a surprise war.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_FINGON_REASON_ANY" Language="en_US">
+			<Text>(You have not focus on [ICON_Science] Science)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_TURGON_REASON_ANY" Language="en_US">
+			<Text>(You are a threat to his people)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_FINROD_REASON_ANY" Language="en_US">
+			<Text>(They dislike civilizations who are somewhat aggressive to city states)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ORODRETH_REASON_ANY" Language="en_US">
+			<Text>(You are not against the barbarians)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANGROD_REASON_ANY" Language="en_US">
+			<Text>I must tell you that your destruction of our earth is not just affecting you, but your neighbors as well. (You don't respect the environment.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_MORGOTH_REASON_ANY" Language="en_US">
+			<Text>(You have never gone to war or have capitulated in a peace deal.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_THINGOL_REASON_ANY" Language="en_US">
+			<Text>(You have attacked someone on his home continent)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_DIOR_REASON_ANY" Language="en_US">
+			<Text>I must tell you that your destruction of our earth is not just affecting you, but your neighbors as well. (You don't respect the environment.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_DENETHOR_REASON_ANY" Language="en_US">
+			<Text>I must tell you that your destruction of our earth is not just affecting you, but your neighbors as well. (You don't respect the environment.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_HURIN_THALION_REASON_ANY" Language="en_US">
+			<Text>(You are weak in Science and Culture.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_DURIN_REASON_ANY" Language="en_US">
+			<Text>(You have built more wonders.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_AZAGHAL_REASON_ANY" Language="en_US">
+			<Text>(You have denounced one of my friends.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_NAUGLADUR_REASON_ANY" Language="en_US">
+			<Text>(You don't have declared a surprise war.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_FINARFIN_REASON_ANY" Language="en_US">
+			<Text>(You have not maintain the peace)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_INGWE_REASON_ANY" Language="en_US">
+			<Text>(You have not focus on faith)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_OLWE_REASON_ANY" Language="en_US">
+			<Text>(You have attacked someone on his home continent)</Text>
+		</Row>
+	</LocalizedText>
+	
+	<!-- 
+	LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_BLACK_QUEEN need to do???
+	-->
+</GameData>
