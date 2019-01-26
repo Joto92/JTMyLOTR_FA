@@ -1,5 +1,12 @@
 # Civ VI Lord of the Rings First Age Mod
 - - - -
+# INDEX 
+1. [To Do](#1-to-do)
+2. [Leader & Civs](#2-leader--civs)
+3. [City States](#3-city-states)
+4. [Natural Wonders](#4-natural-wonders)
+5. [Building Wonders](#5-building-wonders)
+- - - -
 # 1. To Do
 Things to Do:
 * World wonders using existing models or new
@@ -200,3 +207,9 @@ None
 * Haleth: Holy Sites gains +1 [ICON_Faith] Faith for Forest adjacency.
 * Balar: All districts gain +1 [ICON_Faith] Faith for being adjacent to the Coast.
 * Brodda: Combat victories provide [ICON_Faith] Faith equal to 20% of the [ICON_Strength] Combat Strength of the defeated unit.
+- - - -
+# 4. Natural Wonders
+Possible wonders: Thangorodrim, Taniquetil, Mount Dolmed, Lake Helevorn, Mount Taras, Marshes of Nevrast, Falls of Sirion, Amon Rûdh, Tol Galen
+- - - -
+# 5. Building Wonders
+Possible wonders: ??
