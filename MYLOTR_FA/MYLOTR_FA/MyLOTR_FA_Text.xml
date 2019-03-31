@@ -736,8 +736,21 @@
 		<Row Tag="LOC_CITY_NAME_ARAMAN" Language="en_US">
 			<Text>Araman</Text>
 		</Row>
-		
-		<!-- AMAN: ,  , , , ,  -->
+		<Row Tag="LOC_CITY_NAME_ILVERIN" Language="en_US">
+			<Text>Ilverin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAPALINDA" Language="en_US">
+			<Text>Kapalinda</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_INTAVROS" Language="en_US">
+			<Text>Intavros</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MAHANAXAR" Language="en_US">
+			<Text>Máhanaxar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HANSTOVANEN" Language="en_US">
+			<Text>Hanstovánen</Text>
+		</Row>
 		<!-- END OF AMAN | FINARFIN	-->
 		<!-- AMAN | INGWE	-->
 		<Row Tag="LOC_LOADING_INFO_LEADER_INGWE" Language="en_US">
@@ -1064,5 +1077,213 @@
 			<Text>Dor-Cúarthol</Text>
 		</Row>
 		<!-- End of City States-->
+		<!-- Rivers -->
+		<Row Tag="LOC_NAMED_RIVER_GREATER_GELION_NAME" Language="en_US">
+			<Text>Greater Gelion</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_LITTLE_GELION_NAME" Language="en_US">
+			<Text>Little Gelion</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_CELON_NAME" Language="en_US">
+			<Text>Celon</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ESGALDUIN_NAME" Language="en_US">
+			<Text>Esgalduin</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_AROS_NAME" Language="en_US">
+			<Text>Aros</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SIRION_NAME" Language="en_US">
+			<Text>Sirion</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_CELEBROS_NAME" Language="en_US">
+			<Text>Celebros</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MALDUIN_NAME" Language="en_US">
+			<Text>Malduin</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MINDEB_NAME" Language="en_US">
+			<Text>Mindeb</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TAEGLIN_NAME" Language="en_US">
+			<Text>Taeglin</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RINGWIL_NAME" Language="en_US">
+			<Text>Ringwil</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_NAROG_NAME" Language="en_US">
+			<Text>Narog</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_GINGLITH_NAME" Language="en_US">
+			<Text>Ginglith</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_NENNING_NAME" Language="en_US">
+			<Text>Nenning</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BRITHON_NAME" Language="en_US">
+			<Text>Brithon</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ADURANT_NAME" Language="en_US">
+			<Text>Adurant</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BRILTHOR_NAME" Language="en_US">
+			<Text>Brilthor</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ASCAR_NAME" Language="en_US">
+			<Text>Ascar</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_DUILWEN_NAME" Language="en_US">
+			<Text>Duilwen</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_GELION_NAME" Language="en_US">
+			<Text>Gelion</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_LEGOLIN_NAME" Language="en_US">
+			<Text>Legolin</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_THALOS_NAME" Language="en_US">
+			<Text>Thalos</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MITHRIM_NAME" Language="en_US">
+			<Text>Mithrim</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RIVIL_NAME" Language="en_US">
+			<Text>Rivil</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_CIRITH_NINNIACH_NAME" Language="en_US">
+			<Text>Cirith Ninniach</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_DRY_RIVER_NAME" Language="en_US">
+			<Text>Dry River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_HIRI_NAME" Language="en_US">
+			<Text>Híri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SIRNUMEN_NAME" Language="en_US">
+			<Text>Sirnúmen</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_KELUSINDI_NAME" Language="en_US">
+			<Text>Kelusindi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_AFROS_NAME" Language="en_US">
+			<Text>Afros</Text>
+		</Row>
+		<!-- Mountains-->
+		<Row Tag="LOC_NAMED_MOUNTAIN_IRON_MOUNTAINS_NAME" Language="en_US">
+			<Text>Iron Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_THANGORODRIM_NAME" Language="en_US">
+			<Text>Thangorodrim</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_AGLON_NAME" Language="en_US">
+			<Text>Ered Aglon</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ERED_WETHRIN_NAME" Language="en_US">
+			<Text> Wethrin</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_AMON_DARTHIR_NAME" Language="en_US">
+			<Text>Amon Darthir</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MITHIM_NAME" Language="en_US">
+			<Text>Ered Mithrim</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ECHORIATH_NAME" Language="en_US">
+			<Text>Echoriath</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_CRISSAEGRIM_NAME" Language="en_US">
+			<Text>Crissaegrim</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ERED_LOMIN_NAME" Language="en_US">
+			<Text>Ered Lómin</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MENEGROTH_NAME" Language="en_US">
+			<Text>Menegroth</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ERED_GORGOROTH_NAME" Language="en_US">
+			<Text>Ered Gorgoroth</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ANDRAM_NAME" Language="en_US">
+			<Text>Andram</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_PELORI_NAME" Language="en_US">
+			<Text>Pelóri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_HYARMENTIR_NAME" Language="en_US">
+			<Text>Hyarmentir</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_TAUR_EN_FAROTH_NAME" Language="en_US">
+			<Text>Taur-en-Faroth</Text>
+		</Row>
+		<!-- Deserts-->
+		<Row Tag="LOC_NAMED_DESERT_NAN_DUNGORTHEB_NAME" Language="en_US">
+			<Text>Nan Dungortheb</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_ANFAUGLITH_NAME" Language="en_US">
+			<Text>Anfauglith</Text>
+		</Row>
+		<!-- Natural Wonders-->
+		<Row Tag="LOC_FEATURE_TANIQUETIL_NAME" Language="en_US" >
+			<Text>Taniquetil</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_TANIQUETIL_DESCRIPTION" Language="en_US" >
+			<Text>Three tile impassable natural wonder. It appears as a Mountain and provides +3 [ICON_Faith] Faith and  +1 [ICON_Science] Science to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_TANIQUETIL_QUOTE" Language="en_US">
+			<Text>“Varda looked down from Taniquetil, and beheld the Shadow soaring up in sudden towers of gloom; Valmar had foundered in a deep sea of night. Soon the Holy Mountain stood alone, a last island in a world that was drowned.”[NEWLINE]– The Silmarillion, Ch 8: Of The Darkening of Valinor</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MOUNT_RERIR_NAME" Language="en_US" >
+			<Text>Mount Rerir</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MOUNT_RERIR_DESCRIPTION" Language="en_US" >
+			<Text>Three tile impassable natural wonder. It appears as a Mountain and provides +1 [ICON_Gold] Gold and +1 [ICON_Culture] Culture to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_MOUNT_RERIR_QUOTE" Language="en_US">
+			<Text>“Mount Taras, westernmost of all the towers of that land, whose head a mariner would first descry across the miles of the sea, as he drew near to the mortal shores. Beneath its long slopes in bygone days Turgon had dwelt in the halls of Vinyamar, eldest of all the works of stone that the Noldor built in the lands of their exile. ”[NEWLINE]– Unfinished Tales, Ch 1: Of Tuor and His Coming to Gondolin</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MOUNT_TARAS_NAME" Language="en_US" >
+			<Text>Mount Taras</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MOUNT_TARAS_DESCRIPTION" Language="en_US" >
+			<Text>Three tile impassable natural wonder. It appears as a Mountain and provides +1 [ICON_Gold] Gold and +1 [ICON_Faith] Faith to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_MOUNT_TARAS_QUOTE" Language="en_US">
+			<Text>“Mount Taras, westernmost of all the towers of that land, whose head a mariner would first descry across the miles of the sea, as he drew near to the mortal shores. Beneath its long slopes in bygone days Turgon had dwelt in the halls of Vinyamar, eldest of all the works of stone that the Noldor built in the lands of their exile. ”[NEWLINE]– Unfinished Tales, Ch 1: Of Tuor and His Coming to Gondolin</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MOUNT_DOLMED_NAME" Language="en_US" >
+			<Text>Mount Dolmed</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MOUNT_DOLMED_DESCRIPTION" Language="en_US" >
+			<Text>Three tile impassable natural wonder. It appears as a Mountain and provides +2 [ICON_Gold] Gold and +1 [ICON_Production] Production to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_MOUNT_DOLMED_QUOTE" Language="en_US">
+			<Text>Mount Dolmed loomed over the only known pass from Eriador into Beleriand. It was here that according to the Dwarves two of the Fathers of the Dwarves, the founders of the Broadbeams and the Firebeards, awoke. Their descendants later established the Dwarven cities of Nogrod and Belegost.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_EITHEL_IVRIN_NAME" Language="en_US" >
+			<Text>Eithel Ivrin</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_EITHEL_IVRIN_DESCRIPTION" Language="en_US" >
+			<Text>Two tile natural wonder. It appears as a Lake and provides +2 [ICON_Faith] Faith, +1 [ICON_Science] Science and +1 [ICON_Food] Food, and Fresh Water. Units heal completely if they heal for one turn adjacent to the Eithel Ivrin.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_EITHEL_IVRIN_QUOTE" Language="en_US">
+			<Text>“They passed westward over Sirion and came at length to Eithel Ivrin, the springs whence Narog rose beneath the Mountains of Shadow. There Gwindor spoke to Túrin, saying: 'Awake, Túrin son of Húrin Thalion! On Ivrin's lake is endless laughter. She is fed from crystal fountains unfailing, and guarded from defilement by Ulmo, Lord of Waters, who wrought her beauty in ancient days.' Then Túrin knelt and drank from that water; and suddenly he cast himself down, and his tears were unloosed at last, and he was healed of his madness.”[NEWLINE]– The Silmarillion, Ch 21: Of Túrin Turambar</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_TARN_AELUIN_NAME" Language="en_US" >
+			<Text>Tarn Aeluin</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_TARN_AELUIN_DESCRIPTION" Language="en_US" >
+			<Text>Two tile natural wonder. It appears as a Lake and provides +2 [ICON_Faith] Faith, +2 [ICON_Culture] Culture and +1 [ICON_Food] Food, and Fresh Water.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_TARN_AELUIN_QUOTE" Language="en_US">
+			<Text>“The waters of Tarn Aeluin were held in reverence, for they were clear and blue by day and by night were a mirror for the stars; and it was said that Melian herself had hallowed that water in the days of old.”[NEWLINE]– The Silmarillion, Ch 19: Of Beren and Lúthien</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_AMON_RUDH_NAME" Language="en_US" >
+			<Text>Amon Rûdh</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_AMON_RUDH_DESCRIPTION" Language="en_US" >
+			<Text>One tile impassable natural wonder. It appears as a Mountain and provides +1 [ICON_Gold] Gold and +1 [ICON_Production] Production to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_AMON_RUDH_QUOTE" Language="en_US">
+			<Text>“Even above the stony heath at its base its crown was reared up a thousand feet and more. Upon the eastern side a broken land climbed slowly up to the high ridges among knots of birch and rowan, and ancient thorn-trees rooted in rock. About the lower slopes of Amon Rûdh there grew thickets of aeglos; but its steep grey head was bare, save for the red seregon that mantled the stone.”[NEWLINE]– Unfinished Tales, Ch 2: Narn I Hîn Húrin: Of Mîm the Dwarf</Text>
+		</Row>
 	</LocalizedText>
 </GameData>

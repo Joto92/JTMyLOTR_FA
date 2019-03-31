@@ -269,6 +269,9 @@
 		<Row Tag="LOC_TRAIT_FIRST_DARK_LORD_DESCRIPTION" Language="en_US">
 			<Text>Unit maintenance cost reduced by 8 Gold per turn, per unit. Tundra and Snow lands provide the same +1 [ICON_Food] Food.</Text>
 		</Row>
+		<Row Tag="LOC_TRAIT_FIRST_DARK_LORD_EXPANSION2_DESCRIPTION" Language="en_US">
+			<Text>Unit maintenance cost reduced by 8 Gold per turn, per unit. Tundra and Snow lands provide the same +1 [ICON_Food] Food. Units do not receive damage from Blizzards. Civilizations that are at war with you receive +100% unit damage from Blizzards in your territory.</Text>
+		</Row>
 		<Row Tag="LOC_TRAIT_AGENDA_KING_OF_THE_WORLD_NAME" Language="en_US">
 			<Text>King of the World</Text>
 		</Row>

@@ -460,6 +460,11 @@
 		<Row CivilizationType="CIVILIZATION_AMAN" CityName="LOC_CITY_NAME_QERKARINGA"/>
 		<Row CivilizationType="CIVILIZATION_AMAN" CityName="LOC_CITY_NAME_HYARMENTIR"/>
 		<Row CivilizationType="CIVILIZATION_AMAN" CityName="LOC_CITY_NAME_ARAMAN"/>
+		<Row CivilizationType="CIVILIZATION_AMAN" CityName="LOC_CITY_NAME_ILVERIN"/>
+		<Row CivilizationType="CIVILIZATION_AMAN" CityName="LOC_CITY_NAME_KAPALINDA"/>
+		<Row CivilizationType="CIVILIZATION_AMAN" CityName="LOC_CITY_NAME_INTAVROS"/>
+		<Row CivilizationType="CIVILIZATION_AMAN" CityName="LOC_CITY_NAME_MAHANAXAR"/>
+		<Row CivilizationType="CIVILIZATION_AMAN" CityName="LOC_CITY_NAME_HANSTOVANEN"/>
 
 
 	</CityNames>

@@ -57,5 +57,14 @@
 		oropher 31, celebrimbor 32, eorl 33, thingol 34, azaghal 35, naugladur 36, finarfin 37, ingwe 38, olwe 39
 		hurin 40, celegorm 41, amrod 42, caranthir 43, orodreth 44, angrod 45, dior 46, denethor ii 47
 		-->
+
+		<Row Name="ICON_FEATURE_TANIQUETIL"	Atlas="ICON_ATLAS_FEATURES" Index="10"/>
+		<Row Name="ICON_FEATURE_MOUNT_RERIR"	Atlas="ICON_ATLAS_FEATURES" Index="10"/>
+		<Row Name="ICON_FEATURE_MOUNT_TARAS"	Atlas="ICON_ATLAS_FEATURES" Index="10"/>
+		<Row Name="ICON_FEATURE_MOUNT_DOLMED"	Atlas="ICON_ATLAS_FEATURES" Index="10"/>
+		<Row Name="ICON_FEATURE_EITHEL_IVRIN"            Atlas="ICON_ATLAS_FEATURES" Index="9"/>
+		<Row Name="ICON_FEATURE_TARN_AELUIN"            Atlas="ICON_ATLAS_FEATURES" Index="9"/>
+		<Row Name="ICON_FEATURE_AMON_RUDH"         Atlas="ICON_ATLAS_FEATURES" Index="12"/>
+
 	</IconDefinitions>
 </GameData>

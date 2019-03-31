@@ -21,6 +21,11 @@
           <File>MyLOTR_FA_CityStates.xml</File>
           <File>MyLOTR_FA_Agendas.xml</File>
           <File>MyLOTR_FA_Religions.xml</File>
+          <File>MyLOTR_FA_Wonders.xml</File>
+        </UpdateDatabase>
+        <UpdateDatabase id="UsingExpansion2">
+          <Criteria>Expansion2</Criteria>
+          <File>MyLOTR_FA_Expansion2.xml</File>
         </UpdateDatabase>
         <UpdateText id="Text">
           <File>MyLORT_FA_ConfigText.xml</File>
@@ -38,8 +43,7 @@
         <UpdateArt id="Art">
           <File>(Mod Art Dependency File)</File>
         </UpdateArt>
-      </InGameActions>]]>
-    </InGameActionData>
+      </InGameActions>]]></InGameActionData>
     <FrontEndActionData><![CDATA[
       <FrontEndActions>
         <UpdateDatabase id="Config">
@@ -61,7 +65,14 @@
     <ModProperties>
       <CustomProperties xmlns="" />
     </ModProperties>
-    <Authors>Jordi Torné</Authors>
+    <Authors>Joto92</Authors>
+    <ActionCriteriaData><![CDATA[
+      <ActionCriteria>
+        <Criteria id="Expansion2">
+          <GameCoreInUse>Expansion2</GameCoreInUse>
+        </Criteria>
+      </ActionCriteria>
+    ]]></ActionCriteriaData>
     <AssociationData><![CDATA[<Associations>
   <Dependency type="Mod" title="JT: Lord of the Rings Mod" id="849f25c2-b2b3-4a4a-8ef2-9f3a997a5f63" />
 </Associations>]]></AssociationData>
@@ -74,6 +85,12 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="MyLORT_FA_Civilipedia.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyLOTR_FA_Expansion2.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyLOTR_FA_Wonders.xml">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Translations\MyLOTR_FA_CivilopediaES.xml">

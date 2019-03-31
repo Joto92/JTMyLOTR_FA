@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+<!--
+
+Taniquetil -  
+Mount Rerir - 
+Mount Taras- 
+Mount Dolmed- 
+Eithel Ivrin(lake) 
+Tarn Aeluin(lake)
+Amon Rûdh (Kilimanjaro)
+-->
+	<Types>
+		<Row Type="FEATURE_TANIQUETIL" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_MOUNT_RERIR" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_MOUNT_TARAS" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_MOUNT_DOLMED" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_EITHEL_IVRIN" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_TARN_AELUIN" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_AMON_RUDH" Kind="KIND_FEATURE" />
+
+	</Types>
+
+	<Features>
+		<Row FeatureType="FEATURE_TANIQUETIL" Name="LOC_FEATURE_TANIQUETIL_NAME" Description="LOC_FEATURE_TANIQUETIL_DESCRIPTION" Quote="LOC_FEATURE_TANIQUETIL_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="3" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_MOUNT_RERIR" Name="LOC_FEATURE_MOUNT_RERIR_NAME" Description="LOC_FEATURE_MOUNT_RERIR_DESCRIPTION" Quote="LOC_FEATURE_MOUNT_RERIR_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="3" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_MOUNT_TARAS" Name="LOC_FEATURE_MOUNT_TARAS_NAME" Description="LOC_FEATURE_MOUNT_TARAS_DESCRIPTION" Quote="LOC_FEATURE_MOUNT_TARAS_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="3" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_MOUNT_DOLMED" Name="LOC_FEATURE_MOUNT_DOLMED_NAME" Description="LOC_FEATURE_MOUNT_DOLMED_DESCRIPTION" Quote="LOC_FEATURE_MOUNT_DOLMED_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="3" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_EITHEL_IVRIN" Name="LOC_FEATURE_EITHEL_IVRIN_NAME" Description="LOC_FEATURE_EITHEL_IVRIN_DESCRIPTION" Quote="LOC_FEATURE_EITHEL_IVRIN_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="2" NoAdjacentFeatures="true" NoRiver="true" NoCoast="true" Lake="true" Settlement="false" FollowRulesInWB="false" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_TARN_AELUIN" Name="LOC_FEATURE_TARN_AELUIN_NAME" Description="LOC_FEATURE_TARN_AELUIN_DESCRIPTION" Quote="LOC_FEATURE_TARN_AELUIN_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="2" NoAdjacentFeatures="true" NoRiver="true" NoCoast="true" Lake="true" Settlement="false" FollowRulesInWB="false" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_AMON_RUDH" Name="LOC_FEATURE_AMON_RUDH_NAME" Description="LOC_FEATURE_AMON_RUDH_DESCRIPTION" Quote="LOC_FEATURE_AMON_RUDH_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+
+	</Features>
+
+	<Feature_ValidTerrains>
+		<Row FeatureType="FEATURE_TANIQUETIL" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_TANIQUETIL" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_TANIQUETIL" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_RERIR" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_RERIR" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_RERIR" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_TARAS" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_TARAS" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_DOLMED" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_DOLMED" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_DOLMED" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_EITHEL_IVRIN" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_EITHEL_IVRIN" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_TARN_AELUIN" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_TARN_AELUIN" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_AMON_RUDH" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_AMON_RUDH" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+	</Feature_ValidTerrains>
+	<Feature_NotAdjacentTerrains>
+		<Row FeatureType="FEATURE_AMON_RUDH" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_AMON_RUDH" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_AMON_RUDH" TerrainType="TERRAIN_DESERT_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_AMON_RUDH" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_AMON_RUDH" TerrainType="TERRAIN_SNOW_MOUNTAIN"/>
+	</Feature_NotAdjacentTerrains>
+	<Feature_AdjacentTerrains>
+		<Row FeatureType="FEATURE_TANIQUETIL" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_TANIQUETIL" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_TANIQUETIL" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_TANIQUETIL" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_TANIQUETIL" TerrainType="TERRAIN_SNOW"/>
+		<Row FeatureType="FEATURE_TANIQUETIL" TerrainType="TERRAIN_SNOW_HILLS"/>
+		<Row FeatureType="FEATURE_TANIQUETIL" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_TANIQUETIL" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_RERIR" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_MOUNT_RERIR" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_RERIR" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_MOUNT_RERIR" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_RERIR" TerrainType="TERRAIN_SNOW"/>
+		<Row FeatureType="FEATURE_MOUNT_RERIR" TerrainType="TERRAIN_SNOW_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_RERIR" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_MOUNT_RERIR" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_TARAS" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_MOUNT_TARAS" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_TARAS" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_MOUNT_TARAS" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_DOLMED" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_MOUNT_DOLMED" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_DOLMED" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_MOUNT_DOLMED" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_DOLMED" TerrainType="TERRAIN_SNOW"/>
+		<Row FeatureType="FEATURE_MOUNT_DOLMED" TerrainType="TERRAIN_SNOW_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_DOLMED" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_MOUNT_DOLMED" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+	</Feature_AdjacentTerrains>
+
+	<Feature_AdjacentYields>
+		<Row FeatureType="FEATURE_TANIQUETIL" YieldType="YIELD_FAITH" YieldChange="3"/>
+		<Row FeatureType="FEATURE_TANIQUETIL" YieldType="YIELD_SCIENCE" YieldChange="1"/>
+		<Row FeatureType="FEATURE_MOUNT_RERIR" YieldType="YIELD_GOLD" YieldChange="1"/>
+		<Row FeatureType="FEATURE_MOUNT_RERIR" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row FeatureType="FEATURE_MOUNT_TARAS" YieldType="YIELD_GOLD" YieldChange="1"/>
+		<Row FeatureType="FEATURE_MOUNT_TARAS" YieldType="YIELD_FAITH" YieldChange="1"/>
+		<Row FeatureType="FEATURE_MOUNT_DOLMED" YieldType="YIELD_GOLD" YieldChange="2"/>
+		<Row FeatureType="FEATURE_MOUNT_DOLMED" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+		<Row FeatureType="FEATURE_AMON_RUDH" YieldType="YIELD_GOLD" YieldChange="1"/>
+		<Row FeatureType="FEATURE_AMON_RUDH" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+	</Feature_AdjacentYields>
+
+	<Feature_YieldChanges>
+		<Row FeatureType="FEATURE_EITHEL_IVRIN" YieldType="YIELD_FAITH" YieldChange="2"/>
+		<Row FeatureType="FEATURE_EITHEL_IVRIN" YieldType="YIELD_SCIENCE" YieldChange="1"/>
+		<Row FeatureType="FEATURE_EITHEL_IVRIN" YieldType="YIELD_FOOD" YieldChange="1"/>
+		<Row FeatureType="FEATURE_TARN_AELUIN" YieldType="YIELD_FAITH" YieldChange="2"/>
+		<Row FeatureType="FEATURE_TARN_AELUIN" YieldType="YIELD_FOOD" YieldChange="1"/>
+		<Row FeatureType="FEATURE_TARN_AELUIN" YieldType="YIELD_CULTURE" YieldChange="1"/>
+	</Feature_YieldChanges>
+
+	<Requirements>
+		<Row>
+			<RequirementId>EITHEL_IVRIN_REQUIRES_ADJACENT_UNIT</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_ADJACENT_FEATURE_TYPE_MATCHES</RequirementType>
+		</Row>
+	</Requirements>
+	<RequirementArguments>
+		<Row>
+			<RequirementId>EITHEL_IVRIN_REQUIRES_ADJACENT_UNIT</RequirementId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_EITHEL_IVRIN</Value>
+		</Row>
+	</RequirementArguments>
+	<RequirementSets>
+		<Row>
+			<RequirementSetId>EITHEL_IVRIN_ADJACENT_UNITS_ADJUST_HEAL_PER_TURN_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+	</RequirementSets>
+	<RequirementSetRequirements>
+		<Row>
+			<RequirementSetId>EITHEL_IVRIN_ADJACENT_UNITS_ADJUST_HEAL_PER_TURN_REQUIREMENTS</RequirementSetId>
+			<RequirementId>EITHEL_IVRIN_REQUIRES_ADJACENT_UNIT</RequirementId>
+		</Row>
+	</RequirementSetRequirements>
+	<Modifiers>
+		<Row>
+			<ModifierId>EITHEL_IVRIN_ADJACENT_UNITS_ADJUST_HEAL_PER_TURN</ModifierId>
+			<ModifierType>MODIFIER_ALL_UNITS_ADJUST_HEAL_PER_TURN</ModifierType>
+			<SubjectRequirementSetId>EITHEL_IVRIN_ADJACENT_UNITS_ADJUST_HEAL_PER_TURN_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+	</Modifiers>
+	<ModifierArguments>
+		<Row>
+			<ModifierId>EITHEL_IVRIN_ADJACENT_UNITS_ADJUST_HEAL_PER_TURN</ModifierId>
+			<Name>Amount</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>EITHEL_IVRIN_ADJACENT_UNITS_ADJUST_HEAL_PER_TURN</ModifierId>
+			<Name>Type</Name>
+			<Value>ALL</Value>
+		</Row>
+	</ModifierArguments>
+	<GameModifiers>
+		<Row ModifierId="EITHEL_IVRIN_ADJACENT_UNITS_ADJUST_HEAL_PER_TURN"/>
+	</GameModifiers>
+</GameData>

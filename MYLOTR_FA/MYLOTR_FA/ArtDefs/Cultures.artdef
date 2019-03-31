@@ -65,7 +65,7 @@
 				</m_Fields>
 				<m_ChildCollections/>
 				<m_Name text="AncientBrick"/>
-				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+				<m_AppendMergedParameterCollections>true</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
 				<m_Fields>
@@ -153,7 +153,7 @@
 				</m_Fields>
 				<m_ChildCollections/>
 				<m_Name text="AncientWood"/>
-				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+				<m_AppendMergedParameterCollections>true</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
 				<m_Fields>
@@ -177,7 +177,7 @@
 				</m_Fields>
 				<m_ChildCollections/>
 				<m_Name text="SouthAfrican"/>
-				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+				<m_AppendMergedParameterCollections>true</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
 				<m_Fields>
@@ -209,7 +209,7 @@
 				</m_Fields>
 				<m_ChildCollections/>
 				<m_Name text="Mediterranean"/>
-				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+				<m_AppendMergedParameterCollections>true</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
 				<m_Fields>
@@ -241,7 +241,7 @@
 				</m_Fields>
 				<m_ChildCollections/>
 				<m_Name text="SoutheastAsian"/>
-				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+				<m_AppendMergedParameterCollections>true</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
 				<m_Fields>
@@ -273,7 +273,7 @@
 				</m_Fields>
 				<m_ChildCollections/>
 				<m_Name text="AncientEarth"/>
-				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+				<m_AppendMergedParameterCollections>true</m_AppendMergedParameterCollections>
 			</Element>
 		</Element>
 		<Element>
@@ -380,8 +380,8 @@
 					</m_Values>
 				</m_Fields>
 				<m_ChildCollections/>
-				<m_Name text="NorthernEuropean"/>
-				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+				<m_Name text="European"/>
+				<m_AppendMergedParameterCollections>true</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
 				<m_Fields>
@@ -404,8 +404,8 @@
 					</m_Values>
 				</m_Fields>
 				<m_ChildCollections/>
-				<m_Name text="SouthAfrican"/>
-				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+				<m_Name text="African"/>
+				<m_AppendMergedParameterCollections>true</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
 				<m_Fields>
@@ -437,7 +437,7 @@
 				</m_Fields>
 				<m_ChildCollections/>
 				<m_Name text="Mediterranean"/>
-				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+				<m_AppendMergedParameterCollections>true</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
 				<m_Fields>
@@ -468,8 +468,8 @@
 					</m_Values>
 				</m_Fields>
 				<m_ChildCollections/>
-				<m_Name text="SoutheastAsian"/>
-				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+				<m_Name text="SouthEastAsian"/>
+				<m_AppendMergedParameterCollections>true</m_AppendMergedParameterCollections>
 			</Element>
 		</Element>
 	</m_RootCollections>
